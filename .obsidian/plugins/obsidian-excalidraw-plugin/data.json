@@ -108,7 +108,45 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.15.1",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "id": "ONYhC-VmTHqcc3Zu55jeW",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "1pU-KZu7cSAggUN2Woo0N",
+            "type": "rectangle",
+            "x": 1360.3551288335732,
+            "y": 5377.927417327819,
+            "width": 439.18471051627785,
+            "height": 125.24897299908662,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 0.5,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "biq",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 1659882391,
+            "version": 98,
+            "versionNonce": 403700761,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1756735916951,
+            "link": null,
+            "locked": false
+          }
+        ],
+        "created": 1756735917379
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
@@ -798,7 +836,7 @@
       "key": "G"
     }
   ],
-  "showSplashscreen": true,
+  "showSplashscreen": false,
   "pdfSettings": {
     "pageSize": "A4",
     "pageOrientation": "portrait",
