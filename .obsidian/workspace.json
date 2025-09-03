@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fca7b2566784681a",
+        "id": "d09c8659364fda3f",
         "type": "tabs",
-        "dimension": 34.454314720812185,
         "children": [
           {
-            "id": "45facdff36d58e5d",
+            "id": "2239126e37405f01",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Further Maths/Further Maths Summer Work.excalidraw.md"
+                "file": "EPQ/Extended-project_personal-audit-and-prep-for-induction-day-2025-1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Further Maths Summer Work.excalidraw"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f742c990d9dc69b2",
-        "type": "tabs",
-        "dimension": 65.54568527918782,
-        "children": [
-          {
-            "id": "13f1307db659407e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Maths/Maths Summer Work.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Maths Summer Work"
+              "icon": "lucide-file",
+              "title": "Extended-project_personal-audit-and-prep-for-induction-day-2025-1"
             }
           }
         ]
@@ -185,45 +167,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "e01a06ed4a84b57e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e64d02475eb6cc7d",
-        "type": "window",
-        "children": [
-          {
-            "id": "2aeecae6797adfbb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f9258d728e4e0f6a",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Further Maths/further-maths-summer-workbook.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "further-maths-summer-workbook"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1936,
-        "y": 50,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "45facdff36d58e5d",
+  "active": "2239126e37405f01",
   "lastOpenFiles": [
+    "EPQ/Extended-project_personal-audit-and-prep-for-induction-day-2025-1.md",
+    "German",
+    "EPQ",
     "Maths/Maths Summer Work.md",
     "Further Maths/further-maths-summer-workbook.pdf",
     "Further Maths/Further Maths Summer Work.excalidraw.md",
