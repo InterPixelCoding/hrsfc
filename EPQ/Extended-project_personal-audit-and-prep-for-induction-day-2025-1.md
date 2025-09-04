@@ -101,19 +101,13 @@ You will need to complete the first part and have it accessible and ready for In
 
 ### Step 2. Look at the EPQ Magazines  
 
-Identify **5 things that inspire you**.
-
-Examples:  
-- Someone built a bird box out of wood, and we have tools at home, and I wondered if I could make a bedside table.  
-- The idea of art based on physics was interesting – maybe I could do something to do with chemistry and art? Make my own pigments?  
-
-| # | Inspiration |
-|---|-------------|
-| 1 |             |
-| 2 |             |
-| 3 |             |
-| 4 |             |
-| 5 |             |
+| #   | Inspiration                                                                                                                                                                                                                                                                                                             |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | I was inspired by web-based tools like Duolingo, which use simple visuals and interactive design to make learning easier. It made me think about how software can be designed to be more accessible and engaging for different learners.                                                                                |
+| 2   | Music has always fascinated me, especially how it can be used to support communication and well-being. I’ve seen how rhythm games or interactive activities help people connect, and this made me think about ways technology could bring that same creativity into music learning.                                     |
+| 3   | I’ve also been inspired by creative coding projects, like small games or animations people build online. These show how code can become a tool for play and creativity, and it gave me the idea that software for music doesn’t have to be dry or traditional.                                                          |
+| 4   | Looking at EPQ examples, I noticed projects where students combined art and another field - like redesigning album covers or making music videos. That inspired me because it shows how you can use creativity to explore a deeper idea, and I wanted to do something that blends technology and music in the same way. |
+| 5   | I’ve also been drawn to community-driven projects, like websites or podcasts where people contribute their own content. This gave me the idea that music tools could be collaborative, letting people share ideas rather than working in isolation.                                                                     |
 
 ---
 
