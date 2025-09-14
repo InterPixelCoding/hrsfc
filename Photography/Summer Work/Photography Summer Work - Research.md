@@ -1,4 +1,5 @@
 ## Introduction + Chosen Theme
+
 ## Initial Research
 ## Compositional Techniques
 ### Scenic Vignetting
