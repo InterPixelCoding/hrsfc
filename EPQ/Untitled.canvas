@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"5941968297734542","type":"file","file":"Pasted image 20250920124522.png","x":-540,"y":-320,"width":400,"height":218},
-		{"id":"8af8268c40b57c13","type":"file","file":"Pasted image 20250920145449.png","x":-520,"y":-40,"width":81,"height":120},
+		{"id":"5941968297734542","type":"file","file":"Excalidraw/Pasted image 20250920124522.png","x":-540,"y":-320,"width":400,"height":218},
+		{"id":"8af8268c40b57c13","type":"file","file":"Excalidraw/Pasted image 20250920145449.png","x":-520,"y":-40,"width":81,"height":120},
 		{"id":"0205873c80e05bbb","type":"text","text":"50mm ASP-C sensor, not enough overlap between photos\n","x":-360,"y":-40,"width":250,"height":111},
-		{"id":"ff00fa79a8edbde6","type":"file","file":"Pasted image 20250920171550.png","x":-613,"y":120,"width":349,"height":400},
+		{"id":"ff00fa79a8edbde6","type":"file","file":"Excalidraw/Pasted image 20250920171550.png","x":-613,"y":120,"width":349,"height":400},
 		{"id":"43103c07b05ba759","type":"text","text":"Second attempt with 18mm\nMuch cleaner, but still no where near the standard I need\n","x":-169,"y":293,"width":249,"height":127},
 		{"id":"05194548d9335048","type":"text","text":"RealityCapture 1.5.6","x":-1040,"y":41,"width":250,"height":60},
 		{"id":"1a9727da4c95e236","type":"link","url":"https://www.youtube.com/watch?v=a5InKu_UlyE","x":-44,"y":-310,"width":333,"height":198},

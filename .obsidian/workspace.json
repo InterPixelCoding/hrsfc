@@ -11,10 +11,12 @@
             "id": "53e217a6320ab1d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/Pasted Image 20250925190256_951.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250925190256_951"
             }
           }
         ]
@@ -163,10 +165,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "53e217a6320ab1d5",
+  "active": "28e7fc81f68d7b83",
   "lastOpenFiles": [
+    "Excalidraw/Pasted image 20250920124522.png",
     "Maths/25-09-2025.excalidraw.md",
-    "Pasted Image 20250925190256_951.png",
+    "Excalidraw/Pasted Image 20250925190256_951.png",
     "Maths/25-09-2025-01.excalidraw.md",
     "Further Maths/25-09-2025.excalidraw.md",
     "EPQ/Untitled.canvas",
