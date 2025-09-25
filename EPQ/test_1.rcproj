@@ -1,0 +1,303 @@
+<RealityCapture version="1.5.1.118081" sceneRevision="33" sceneId="{7EACC2E2-C7EB-4A87-AA7C-7773D1FA8D16}">
+    <certificates>
+    </certificates>
+    <coordinates>
+        <projectCoordinates index="-1"/>
+    </coordinates>
+    <source>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5556.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D" flags="1537"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5557.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5558.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5559.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5560.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5561.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5562.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5563.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5564.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5565.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5566.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5567.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5568.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5569.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5570.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5571.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5572.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5573.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5574.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5575.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5576.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5577.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5578.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5579.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5580.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5581.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5582.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5583.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5584.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5585.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5586.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5587.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5588.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5589.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5590.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5591.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5592.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5593.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5594.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5595.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5596.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5597.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5598.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5599.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5600.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5601.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5602.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5603.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5604.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5605.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5606.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5607.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5608.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5609.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5610.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5611.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5612.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5613.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5614.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5615.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5616.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5617.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5618.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5619.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5620.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5621.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5622.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5623.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5624.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5625.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5626.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5627.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5628.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5629.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5630.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5631.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5632.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5633.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5634.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5635.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5636.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5637.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5638.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5639.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5640.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5641.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5642.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5643.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5644.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5645.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5646.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5647.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5648.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5649.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5650.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5651.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5652.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5653.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5654.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5655.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5656.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5657.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5658.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5659.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5660.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5661.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5662.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5663.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5664.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5665.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5666.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5667.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5668.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5669.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5670.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5671.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5672.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5673.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5674.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5675.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5676.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5677.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5678.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5679.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5680.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5681.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5682.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5683.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5684.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5685.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5686.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5687.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5688.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5689.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5690.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5691.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5692.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5693.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5694.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5695.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5696.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5697.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5698.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5699.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5700.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5701.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5702.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5703.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5704.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5705.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5706.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5707.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5708.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5709.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5710.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5711.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5712.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5713.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5714.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5715.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5716.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5717.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5718.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5719.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5720.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5721.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5722.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5723.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5724.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5725.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5726.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5727.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5728.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5729.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5730.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5731.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5732.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5733.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5734.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5735.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5736.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5737.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5738.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5739.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5740.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5741.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5742.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5743.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5744.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5745.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5746.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5747.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5748.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5749.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5750.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5751.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5752.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5753.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5754.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5755.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5756.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5757.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5758.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5759.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5760.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5761.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5762.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5763.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5764.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5765.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5766.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5767.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5768.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5769.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5770.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5771.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5772.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5773.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5774.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5775.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5776.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5777.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5778.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5779.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5780.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5781.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5782.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5783.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5784.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5785.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5786.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5787.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5788.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5789.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5790.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5791.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5792.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5793.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5794.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5795.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5796.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5797.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5553.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5552.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5551.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5550.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5549.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5548.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5547.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5546.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5545.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5544.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5543.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5542.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5541.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5540.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5539.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5554.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+        <input fileName="D:\Canon 650D - Backup\2025\Photogrammetry - Dad&apos;s house\_MG_5555.CR2" width="5208" height="3476" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90D"/>
+    </source>
+    <reconstructions selectedComponentId="{BC9512F7-D6F0-4EBA-AEC2-07DCFBE81BA9}">
+        <component name="Component 0" id="{D0E67BB7-D957-4409-9928-76B53E95D106}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="test_1\sfm0.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="test_1\colorNormalization0.dat" />
+            <metadata fileName="test_1\metadata0.dat"/>
+        </component>
+        <component name="Component 1" id="{F77FD4C9-C844-4A53-80ED-0EB1BCB72D5B}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="test_1\sfm1.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 2" id="{C899AC6B-C9D2-4391-85A0-B5094FB304D5}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="test_1\sfm2.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 3" id="{CB6EDF95-B8DC-40A6-9CAF-7676F8214B7F}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="test_1\sfm3.dat" selectedModel="-1" sfmVisible="1"> 
+        </component>
+        <component name="Component 4" id="{BC9512F7-D6F0-4EBA-AEC2-07DCFBE81BA9}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="test_1\sfm4.dat" selectedModel="3" sfmVisible="0"> 
+            <colorNormalization name="colorNormalization" fileName="test_1\colorNormalization1.dat" />
+            <metadata fileName="test_1\metadata1.dat"/>
+            <model name="HighPoly" fileName="test_1\model0.dat" unwrappedArea="0.0000000000000000e+00" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+00" texturesUtilization="0.0000000000000000e+00" texelSize="0.0000000000000000e+00" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+00" coloringStyle="10" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="2147483647" unwrappingMethod ="2147483647" unwrapModifiers ="0" unwrapName="" cleanMark="2" selectedTxLayerGuid="{00000000-0000-0000-0000-000000000000}" depthMapsLibVersion="1"  >
+            </model>
+            <model name="HighPoly Filtered" fileName="test_1\model1.dat" unwrappedArea="0.0000000000000000e+00" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+00" texturesUtilization="0.0000000000000000e+00" texelSize="0.0000000000000000e+00" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+00" coloringStyle="10" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="2147483647" unwrappingMethod ="2147483647" unwrapModifiers ="0" unwrapName="" cleanMark="3" selectedTxLayerGuid="{00000000-0000-0000-0000-000000000000}" depthMapsLibVersion="1"  >
+            </model>
+            <model name="HighPoly Smoothed" fileName="test_1\model2.dat" unwrappedArea="1.4452800631002224e+03" unwrappLargeTriRemThr="10.000000" minimalTexelSize="1.1838527861982584e-03" texturesUtilization="9.0337085723876953e-01" texelSize="8.0282464623451233e-03" chartsGutterSize="2" averageEdgeLength="1.0313203416142841e-02" coloringStyle="11" texturingStyle="2" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrappingMethod ="0" unwrapModifiers ="0" unwrapName="52638EB5-6D9D-41A0-8B9F-D046A07D420F60d619d65675940092005609e8d05b1f" cleanMark="0" selectedTxLayerGuid="{F6C44400-F281-4393-B312-1474D44F5B73}" depthMapsLibVersion="0"  >
+                <textures>
+                    <textureLayer texturingStyle="2" inputLayer="1" computationTime="331" id="{F6C44400-F281-4393-B312-1474D44F5B73}" />
+                </textures>
+            </model>
+            <model name="LowPoly" fileName="test_1\model3.dat" unwrappedArea="1.9359448252523964e+03" unwrappLargeTriRemThr="10.000000" minimalTexelSize="1.1838527861982584e-03" texturesUtilization="8.6286067962646484e-01" texelSize="8.3174286410212517e-03" chartsGutterSize="2" averageEdgeLength="3.5615372833521043e-02" coloringStyle="11" texturingStyle="9" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrappingMethod ="0" unwrapModifiers ="0" unwrapName="9EB3763D-33CB-4139-9E74-0396DACD9758205f8ec366a99100e2e02809b8b03e7f" cleanMark="0" selectedTxLayerGuid="{F0B4397A-AD93-4625-AFF4-3F730F33924D}" depthMapsLibVersion="0"  >
+                <textures>
+                    <textureLayer texturingStyle="9" computationTime="50" sourceModel="{52638EB5-6D9D-41A0-8B9F-D046A07D420F}" id="{F529571B-D832-4F37-BB0E-A3FF964268EE}" />
+                    <textureLayer texturingStyle="9" inputLayer="1" computationTime="50" sourceModel="{52638EB5-6D9D-41A0-8B9F-D046A07D420F}" sourceLayer="{F6C44400-F281-4393-B312-1474D44F5B73}" id="{F0B4397A-AD93-4625-AFF4-3F730F33924D}" />
+                </textures>
+            </model>
+        </component>
+    </reconstructions>
+    <entities name="entities" fileName="test_1\entities0.dat"/>
+    <animation fileName="test_1\animation0.dat"/>
+    <controlpoints fileName="test_1\controlpoints0.dat"/>
+    <appConfig fileName="test_1\appConfig0.dat" />
+</RealityCapture>

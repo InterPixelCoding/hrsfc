@@ -11,12 +11,17 @@
             "id": "9e46a81d021706bd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Maths/14-09-2025.excalidraw.md"
+                "file": "EPQ/Untitled.canvas",
+                "viewState": {
+                  "x": -241.21161954777665,
+                  "y": 286.11216135694485,
+                  "zoom": 1.1102230246251565e-16
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "14-09-2025.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -165,8 +170,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9e46a81d021706bd",
+  "active": "28e7fc81f68d7b83",
   "lastOpenFiles": [
+    "New Text Document.txt",
+    "EPQ/test_3.rcproj",
+    "EPQ/test_3/appConfig0.dat",
+    "EPQ/test_3/controlpoints0.dat",
+    "EPQ/test_3/animation0.dat",
+    "EPQ/test_3/entities0.dat",
+    "EPQ/test_3/sfm2.dat",
+    "EPQ/test_3/sfm1.dat",
+    "EPQ/test_3/sfm0.dat",
+    "EPQ/test_3/modelE78FB66080C044C3B0BF76090DB15E8C12291.dat",
+    "EPQ/test_3/modelE15D5FECC9824F7EA12DC082DA225F8612293.dat",
+    "Pasted image 20250920171550.png",
+    "Pasted image 20250920145449.png",
+    "Pasted image 20250920124522.png",
+    "EPQ/Extended-project_personal-audit-and-prep-for-induction-day-2025-1.md",
+    "EPQ/Untitled.canvas",
+    "Untitled.md",
     "Maths/14-09-2025.excalidraw.md",
     "Maths/11-09-2025.excalidraw.md",
     "Excalidraw/GetImage.png",
@@ -176,15 +198,9 @@
     "Maths/10-09-2025.excalidraw.md",
     "Photography/Summer Work/Photography Summer Work - Research.md",
     "Photography/Summer Work/pngs/_-0.png",
-    "EPQ/Extended-project_personal-audit-and-prep-for-induction-day-2025-1.md",
-    "German",
-    "EPQ",
     "Maths/Maths Summer Work.md",
-    "Further Maths/further-maths-summer-workbook.pdf",
     "Further Maths/Further Maths Summer Work.excalidraw.md",
     "Further Maths/Pasted Image 20250901182309_785.png",
-    "Excalidraw",
-    "Maths/ma-summer-worksheet-wecompress.com.pdf",
     "Maths/Greggs Tea.excalidraw.md"
   ]
 }
