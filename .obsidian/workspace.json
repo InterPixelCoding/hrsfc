@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4152e68254a51090",
+        "id": "d9223c3c448f7968",
         "type": "tabs",
         "children": [
           {
-            "id": "9e46a81d021706bd",
+            "id": "53e217a6320ab1d5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "EPQ/Untitled.canvas",
-                "viewState": {
-                  "x": -241.21161954777665,
-                  "y": 286.11216135694485,
-                  "zoom": 1.1102230246251565e-16
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -170,8 +163,33 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "28e7fc81f68d7b83",
+  "active": "53e217a6320ab1d5",
   "lastOpenFiles": [
+    "Maths/25-09-2025.excalidraw.md",
+    "Pasted Image 20250925190256_951.png",
+    "Maths/25-09-2025-01.excalidraw.md",
+    "Further Maths/25-09-2025.excalidraw.md",
+    "EPQ/Untitled.canvas",
+    "Maths/Indices_Assessment.excalidraw.md",
+    "Maths/Indices Assessment.pdf",
+    "Maths/Due_23-09-2025.excalidraw.md",
+    "Maths/23-09-2025.excalidraw.md",
+    "Maths/20-09-2025.excalidraw.md",
+    "Maths/15-09-2025.excalidraw.md",
+    "German/Due_23-09-2025.md",
+    "German/23-09-2025.md",
+    "Further Maths/20-09-2025.excalidraw.md",
+    "Further Maths/19-09-2025.excalidraw.md",
+    "Further Maths/15-09-2025.excalidraw.md",
+    "Excalidraw/Pasted image 20250923110335.png",
+    "Excalidraw/Pasted image 20250923083304.png",
+    "Excalidraw/Pasted image 20250923082802.png",
+    "Excalidraw/Pasted Image 20250925121855_541.png",
+    "Excalidraw/Pasted Image 20250925121152_602.png",
+    "Excalidraw/Pasted Image 20250925115519_174.png",
+    "Excalidraw/Pasted Image 20250925115011_679.png",
+    "Excalidraw/Pasted Image 20250925110301_468.png",
+    "Excalidraw/Pasted Image 20250925105140_496.png",
     "New Text Document.txt",
     "EPQ/test_3.rcproj",
     "EPQ/test_3/appConfig0.dat",
@@ -181,26 +199,16 @@
     "EPQ/test_3/sfm2.dat",
     "EPQ/test_3/sfm1.dat",
     "EPQ/test_3/sfm0.dat",
-    "EPQ/test_3/modelE78FB66080C044C3B0BF76090DB15E8C12291.dat",
-    "EPQ/test_3/modelE15D5FECC9824F7EA12DC082DA225F8612293.dat",
-    "Pasted image 20250920171550.png",
-    "Pasted image 20250920145449.png",
-    "Pasted image 20250920124522.png",
     "EPQ/Extended-project_personal-audit-and-prep-for-induction-day-2025-1.md",
-    "EPQ/Untitled.canvas",
     "Untitled.md",
     "Maths/14-09-2025.excalidraw.md",
     "Maths/11-09-2025.excalidraw.md",
-    "Excalidraw/GetImage.png",
-    "GetImage.png",
     "Maths/08-09-2025-01.excalidraw.md",
     "Maths/14-09-2025.md",
     "Maths/10-09-2025.excalidraw.md",
     "Photography/Summer Work/Photography Summer Work - Research.md",
-    "Photography/Summer Work/pngs/_-0.png",
     "Maths/Maths Summer Work.md",
     "Further Maths/Further Maths Summer Work.excalidraw.md",
-    "Further Maths/Pasted Image 20250901182309_785.png",
     "Maths/Greggs Tea.excalidraw.md"
   ]
 }
