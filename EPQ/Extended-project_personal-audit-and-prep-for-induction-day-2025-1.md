@@ -150,11 +150,3 @@ Make a note of who you have visited and 5 things you found out from each stand.
 | 3       |           | 1. <br>2. <br>3. <br>4. <br>5. |
 
 ---
-
-## Final Reminder
-
-Save this document somewhere safe – you will need this when you start EPQ classes.  
-
-Take photos on your phone of anything useful – handwritten notes, web addresses, emails.  
-
-Or use the **Office Lens app** to convert this to a PDF and save it as a file on your computer.  
