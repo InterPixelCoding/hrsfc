@@ -11,10 +11,12 @@
             "id": "46a760c1197197a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Maths/Due_10-10-2025.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Due_10-10-2025.excalidraw"
             }
           }
         ]
@@ -165,11 +167,19 @@
   },
   "active": "46a760c1197197a6",
   "lastOpenFiles": [
+    "Pasted Image 20251008220529_724.png",
+    "Pasted Image 20251008215430_611.png",
+    "Pasted Image 20251008214727_908.png",
+    "Pasted Image 20251008214140_790.png",
+    "Maths/Logarithms Assessment.pdf",
+    "Maths/Due_10-10-2025.excalidraw.md",
+    "Maths/Due_01-10-2025.excalidraw.md",
+    "Maths/Due_01-10-2025.excalidraw.png",
+    "Maths/Indices_Assessment.excalidraw.md",
     "Excalidraw/Pasted Image 20250928100202_723.png",
     "Maths/08-09-2025-01.excalidraw.md",
     "Excalidraw/28-09-2025.excalidraw.md",
     "Pasted Image 20250928100202_723.png",
-    "Maths/Indices_Assessment.excalidraw.md",
     "Maths/Indices Assessment.pdf",
     "Maths/Due_23-09-2025.excalidraw.md",
     "Excalidraw/Pasted Image 20250925190256_951.png",
@@ -188,11 +198,6 @@
     "Further Maths/15-09-2025.excalidraw.md",
     "Excalidraw/Pasted image 20250923110335.png",
     "Excalidraw/Pasted image 20250923083304.png",
-    "Excalidraw/Pasted image 20250923082802.png",
-    "Excalidraw/Pasted Image 20250925121855_541.png",
-    "Excalidraw/Pasted Image 20250925121152_602.png",
-    "Excalidraw/Pasted Image 20250925115519_174.png",
-    "Excalidraw/Pasted Image 20250925115011_679.png",
     "New Text Document.txt",
     "EPQ/test_3.rcproj",
     "EPQ/test_3/appConfig0.dat",
@@ -201,7 +206,6 @@
     "EPQ/test_3/entities0.dat",
     "EPQ/test_3/sfm2.dat",
     "EPQ/test_3/sfm1.dat",
-    "EPQ/test_3/sfm0.dat",
     "EPQ/Extended-project_personal-audit-and-prep-for-induction-day-2025-1.md",
     "Untitled.md",
     "Maths/14-09-2025.excalidraw.md",
@@ -209,8 +213,6 @@
     "Maths/14-09-2025.md",
     "Maths/10-09-2025.excalidraw.md",
     "Photography/Summer Work/Photography Summer Work - Research.md",
-    "Maths/Maths Summer Work.md",
-    "Further Maths/Further Maths Summer Work.excalidraw.md",
-    "Maths/Greggs Tea.excalidraw.md"
+    "Maths/Maths Summer Work.md"
   ]
 }
