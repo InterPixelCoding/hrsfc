@@ -138,15 +138,4 @@ Employer: There is no very direct link, but we do ___ which is related in ___ as
 **You:** Thanks, I will write that down. Can I photograph that web address you showed me?  
 
 ---
-
-### Step 4. Notes from Induction Day
-
-Make a note of who you have visited and 5 things you found out from each stand.
-
-| Stall # | Expertise | Things I Found Out             |
-| ------- | --------- | ------------------------------ |
-| 1       |           | 1. <br>2. <br>3. <br>4. <br>5. |
-| 2       |           | 1. <br>2. <br>3. <br>4. <br>5. |
-| 3       |           | 1. <br>2. <br>3. <br>4. <br>5. |
-
 ---

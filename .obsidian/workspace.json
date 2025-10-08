@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d9223c3c448f7968",
+        "id": "86f90fa1b5cc396a",
         "type": "tabs",
         "children": [
           {
-            "id": "53e217a6320ab1d5",
+            "id": "46a760c1197197a6",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/Pasted Image 20250925190256_951.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20250925190256_951"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -165,17 +163,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "28e7fc81f68d7b83",
+  "active": "46a760c1197197a6",
   "lastOpenFiles": [
-    "Excalidraw/Pasted image 20250920124522.png",
-    "Maths/25-09-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20250925190256_951.png",
-    "Maths/25-09-2025-01.excalidraw.md",
-    "Further Maths/25-09-2025.excalidraw.md",
-    "EPQ/Untitled.canvas",
+    "Excalidraw/Pasted Image 20250928100202_723.png",
+    "Maths/08-09-2025-01.excalidraw.md",
+    "Excalidraw/28-09-2025.excalidraw.md",
+    "Pasted Image 20250928100202_723.png",
     "Maths/Indices_Assessment.excalidraw.md",
     "Maths/Indices Assessment.pdf",
     "Maths/Due_23-09-2025.excalidraw.md",
+    "Excalidraw/Pasted Image 20250925190256_951.png",
+    "Excalidraw/Pasted image 20250920124522.png",
+    "Maths/25-09-2025.excalidraw.md",
+    "Maths/25-09-2025-01.excalidraw.md",
+    "Further Maths/25-09-2025.excalidraw.md",
+    "EPQ/Untitled.canvas",
     "Maths/23-09-2025.excalidraw.md",
     "Maths/20-09-2025.excalidraw.md",
     "Maths/15-09-2025.excalidraw.md",
@@ -191,8 +193,6 @@
     "Excalidraw/Pasted Image 20250925121152_602.png",
     "Excalidraw/Pasted Image 20250925115519_174.png",
     "Excalidraw/Pasted Image 20250925115011_679.png",
-    "Excalidraw/Pasted Image 20250925110301_468.png",
-    "Excalidraw/Pasted Image 20250925105140_496.png",
     "New Text Document.txt",
     "EPQ/test_3.rcproj",
     "EPQ/test_3/appConfig0.dat",
@@ -206,7 +206,6 @@
     "Untitled.md",
     "Maths/14-09-2025.excalidraw.md",
     "Maths/11-09-2025.excalidraw.md",
-    "Maths/08-09-2025-01.excalidraw.md",
     "Maths/14-09-2025.md",
     "Maths/10-09-2025.excalidraw.md",
     "Photography/Summer Work/Photography Summer Work - Research.md",
