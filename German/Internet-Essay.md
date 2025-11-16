@@ -1,0 +1,19 @@
+**Since its birth in 1983, the internet has grown in popularity, and is now used by almost everybody in the world. Its ability to connect people remotely has improved all forms of communication, but with this comes drawbacks. Those without an Internet connection are excluded, and those with, face problems such as endangerment to their privacy and vulnerability to scams.**
+
+**One could argue that the internet offers the fastest answer to any question. However, many websites will show biased or false information, so it is up to the user to compare sources and decide. An advantage to the Internet is that it offers free methods of communication - Email, Skype, Instant Messaging etc.** **If one wants, they can stay anonymous when chatting with others.** **This may help one's sense of privacy and security,** **as they can share things about themselves without their name attached.** **However, staying anonymous could be considered dangerous, as one could encounter dangerous people, for example, paedophiles.** **The ability to contact anybody anytime is as much a gift as a curse.** **Society has changed such that people are expected to be "online" 24/7 - with this comes stress and information overload.** **Finally, especially for teenagers, there is the risk of internet bullying, where personal or embarrassing Information / photos may be exposed. One should always remember, therefore, that nothing is ever forgotten or deleted completely.**
+
+**Overall, after weighing up the advantages and disadvantages, I would say that the internet is more a gift than a curse, as it is hard to imagine society without it** **- it has accelerated technological innovation and overall improved our quality of life.**
+
+## Deutsch Übersetzung
+
+Seit seiner Geburt im Jahr 1983 hat sich das Internet immer größerer Beliebtheit erfreut und wird heute von fast allen Menschen weltweit benutzt. Seine Fähigkeit, um Menschen miteinander zu verbinden, hat alle Kommunikationsquellen verbessert, aber es hat auch seine Nachteile. Menschen ohne einen Internetverbindung sind ausgeschlossen, und diejenigen mit einem Anschluss, stellen Probleme wie der Gefährdung ihrer Privatsphäre sowie die Anfälligkeit für Betrug.
+
+Man könnte behaupten, dass das Internet die Beste Antwort für jede Frage anbietet. Allerdings zeigen Websites oft einseitige oder einfach falsche Informationen an, also muss man viele Quellen vergleichen, und sich eine eigene Meinung machen. Ein Vorteil des Internets ist, dass es kostenlos Kommunikationsmoeglichkeiten, wie WhatsApp, Facebook und Instant-Messaging usw. anbietet. Wenn man will, kann man anonym blieben, wenn man mit anderen chattet. Dies kann das Gefühl von Privatsphäre und Sicherheit fördern, da man Dinge über sich selbst teilen kann, ohne dass der eigenen Name genannt wird. Allerdings könnte es gefährlich erscheinen, anonym zu bleiben, da man auf schlechte Menschen treffen könnte, z. B. Pädophilen. Die Fähigkeit, jemanden jederzeit kontaktieren zu können, ist sowohl ein Segen als auch ein Fluch. Die Gesellschaft hat sich geändert, sodass von den Menschen erwartet ist, dass sie rund um die Uhr „online“ sind - damit gehen Probleme wie Stress und Informationsflut. Schließlich , insbesondere für Teenager, gibt es das Potenzial für Cybermobbing, wo persönliche oder peinliche Informationen/Fotos veröffentlicht werden können. Daher muss man sich immer daran erinnern, dass nichts jemals ganz vergessen oder gelöscht werden kann. 
+
+Insgesamt , nachdem ich die Vor- und Nachteile abgewogen habe, würde ich sagen, dass das Internet eher ein Segen als ein Fluch ist, da es schwer vorzustellen ist, dass die Gesellschaft ohne es funktioniert. Es hat die technologische Entwicklung beschleunigt und unsere Lebensqualität insgesamt verbessert.
+
+
+#words-learnt 
+diejenigen - those (who)
+veröffentlicht werden - to be published
+beschleunigen - to accelerate
