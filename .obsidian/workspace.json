@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< Updated upstream
     "id": "9efa2a1ad9dc6a76",
     "type": "split",
     "children": [
@@ -9,14 +10,32 @@
         "children": [
           {
             "id": "94970d50f5a67a3b",
+=======
+    "id": "6cbccec904dea8ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ae2661325abf48e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cc75a173b0ec625",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Maths/19-11-2025.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "19-11-2025.excalidraw"
+=======
+                "file": "Maths/Due_14-11-2025.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Due_14-11-2025.excalidraw"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -25,6 +44,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< Updated upstream
     "id": "bdcd03f3e4061cbf",
     "type": "split",
     "children": [
@@ -34,6 +54,17 @@
         "children": [
           {
             "id": "0f6a8dcfa3824856",
+=======
+    "id": "f3211f641f230db9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0612a5b21cb52ad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a18f25077616dbf",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +77,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "661c3275209c7041",
+=======
+            "id": "e244a8e48d940e27",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +98,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "cb5f8ef015e00855",
+=======
+            "id": "30f37019cb0c033d",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,6 +119,7 @@
     "collapsed": true
   },
   "right": {
+<<<<<<< Updated upstream
     "id": "988c9e92994ffff9",
     "type": "split",
     "children": [
@@ -89,10 +129,22 @@
         "children": [
           {
             "id": "ac871195172f6e6a",
+=======
+    "id": "b39b608edf0fe8a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7eba09011840de6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "722a077f53ef2e9a",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Due_14-11-2025.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,24 +154,33 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Due_14-11-2025.excalidraw"
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "c457c6376f1b6a31",
+=======
+            "id": "d33a17af43d57599",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Due_14-11-2025.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Due_14-11-2025.excalidraw"
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "ba15e60bba533b42",
+=======
+            "id": "5715e518d15e6f44",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,17 +195,22 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "3d65608f993cd471",
+=======
+            "id": "cf773719b5b21e7b",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Maths/Due_14-11-2025.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Due_14-11-2025.excalidraw"
             }
           }
         ]
@@ -166,6 +232,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+<<<<<<< Updated upstream
   "active": "94970d50f5a67a3b",
   "lastOpenFiles": [
     "Pasted Image 20251119123821_790.png",
@@ -178,6 +245,12 @@
     "Excalidraw/Pasted Image 20251117122557_252.png",
     "Excalidraw/Pasted Image 20251117105100_060.png",
     "Excalidraw/17-11-2025.excalidraw.md",
+=======
+  "active": "2cc75a173b0ec625",
+  "lastOpenFiles": [
+    "Excalidraw/Pasted Image 20251114154827_039.png",
+    "Maths/Due_14-11-2025.excalidraw.md",
+>>>>>>> Stashed changes
     "Excalidraw/Pasted Image 20251114134558_520.png"
   ]
 }
