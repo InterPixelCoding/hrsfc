@@ -1,106 +1,39 @@
 {
   "main": {
-    "id": "95a5913e7fe06761",
+    "id": "9efa2a1ad9dc6a76",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "83030d882706e814",
-=======
-        "id": "ca0edb442ee8e644",
->>>>>>> Stashed changes
+        "id": "d3d585d168c7e56a",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
-<<<<<<< Updated upstream
-            "id": "fd449c5ec3e819f3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Further Maths/Matrices 1 Assessment.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Matrices 1 Assessment"
-            }
-          },
-          {
-            "id": "8967cf080085a6af",
+            "id": "94970d50f5a67a3b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/14-11-2025.excalidraw.md"
+                "file": "Maths/19-11-2025.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "14-11-2025.excalidraw"
-            }
-          },
-          {
-            "id": "f29a7c9d953da8aa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Further Maths/14-11-2025-01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "14-11-2025-01.excalidraw"
-            }
-          }
-        ],
-        "currentTab": 1
-=======
-            "id": "6c3074537f93118e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German/Internet-Essay.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Internet-Essay"
+              "title": "19-11-2025.excalidraw"
             }
           }
         ]
-      },
-      {
-        "id": "d4a544df3bd6ead9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "97ea3edcdc809adc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German/Internet-Essay.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Internet-Essay"
-            }
-          }
-        ]
->>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "944783f456a2821a",
+    "id": "bdcd03f3e4061cbf",
     "type": "split",
     "children": [
       {
-        "id": "d2d71d11dfbb908b",
+        "id": "32a5387f84acbe78",
         "type": "tabs",
         "children": [
           {
-            "id": "28e7fc81f68d7b83",
+            "id": "0f6a8dcfa3824856",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -113,7 +46,7 @@
             }
           },
           {
-            "id": "d2aa45b6eac0d699",
+            "id": "661c3275209c7041",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -130,7 +63,7 @@
             }
           },
           {
-            "id": "ecabd653cee58326",
+            "id": "cb5f8ef015e00855",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -147,15 +80,15 @@
     "collapsed": true
   },
   "right": {
-    "id": "9bbcd2b4bf3848dc",
+    "id": "988c9e92994ffff9",
     "type": "split",
     "children": [
       {
-        "id": "4bc425612f495061",
+        "id": "bb75b35fab05daeb",
         "type": "tabs",
         "children": [
           {
-            "id": "108b3d8ce0060cff",
+            "id": "ac871195172f6e6a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -173,7 +106,7 @@
             }
           },
           {
-            "id": "e18677b8e6986fb4",
+            "id": "c457c6376f1b6a31",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -186,7 +119,7 @@
             }
           },
           {
-            "id": "7312c96c1b308f46",
+            "id": "ba15e60bba533b42",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -201,7 +134,7 @@
             }
           },
           {
-            "id": "7d7660cd445f23e4",
+            "id": "3d65608f993cd471",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -223,90 +156,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "8967cf080085a6af",
+  "active": "94970d50f5a67a3b",
   "lastOpenFiles": [
-    "Further Maths/Matrices 1 Assessment.pdf",
-    "Excalidraw/14-11-2025.excalidraw.md",
-    "Pasted Image 20251114154827_039.png",
-    "Pasted Image 20251114154329_270.png",
-    "Pasted Image 20251114153450_377.png",
-    "Further Maths/14-11-2025-01.excalidraw.md",
-    "Further Maths/14-11-2025.excalidraw.md",
-    "Pasted Image 20251114135300_168.png",
-    "Pasted Image 20251114134558_520.png",
-    "Maths/13-11-2025-02.excalidraw.md",
-    "Maths/13-11-2025excalidraw.md",
-    "Maths/12-11-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251113103628_289.png",
-    "Further Maths/13-11-2025.excalidraw.md",
-    "Further Maths/13-10-2025.excalidraw.md",
-    "Further Maths/28-09-2025.excalidraw.md",
-    "Untitled.md",
-    "German/10-10-2025.md",
-    "Excalidraw/Pasted Image 20251008214140_790.png",
-    "Maths/Due_10-10-2025.excalidraw.md",
-=======
-  "active": "97ea3edcdc809adc",
-  "lastOpenFiles": [
-    "German/Internet-Essay.md",
-    "Miscellaneous/Snooker Stats App.md",
-    "Miscellaneous",
-    "Maths/Due_10-10-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251008214140_790.png",
-    "German/10-10-2025.md",
-    "Excalidraw/Pasted image 20251012212607.png",
->>>>>>> Stashed changes
-    "Excalidraw/Pasted Image 20251008220529_724.png",
-    "Excalidraw/Pasted Image 20251008215430_611.png",
-    "Excalidraw/Pasted Image 20251008214727_908.png",
-    "Maths/Logarithms Assessment.pdf",
-    "Maths/Due_01-10-2025.excalidraw.md",
-    "Maths/Indices_Assessment.excalidraw.md",
-    "Maths/08-09-2025-01.excalidraw.md",
-    "Maths/Indices Assessment.pdf",
-    "Maths/Due_23-09-2025.excalidraw.md",
-    "Maths/25-09-2025.excalidraw.md",
-    "Maths/25-09-2025-01.excalidraw.md",
-    "Further Maths/25-09-2025.excalidraw.md",
-    "EPQ/Untitled.canvas",
-    "Maths/23-09-2025.excalidraw.md",
-    "Maths/20-09-2025.excalidraw.md",
-    "Maths/15-09-2025.excalidraw.md",
-    "German/Due_23-09-2025.md",
-    "German/23-09-2025.md",
-    "Further Maths/20-09-2025.excalidraw.md",
-<<<<<<< Updated upstream
-=======
-    "Further Maths/19-09-2025.excalidraw.md",
-    "Further Maths/15-09-2025.excalidraw.md",
->>>>>>> Stashed changes
-    "New Text Document.txt",
-    "EPQ/test_3.rcproj",
-    "EPQ/test_3/appConfig0.dat",
-    "EPQ/test_3/controlpoints0.dat",
-    "EPQ/test_3/animation0.dat",
-    "EPQ/test_3/entities0.dat",
-<<<<<<< Updated upstream
-    "EPQ/test_3/sfm2.dat"
-=======
-    "EPQ/test_3/sfm2.dat",
-    "EPQ/Extended-project_personal-audit-and-prep-for-induction-day-2025-1.md",
-    "Maths/14-09-2025.excalidraw.md",
-    "Maths/11-09-2025.excalidraw.md",
-    "Maths/14-09-2025.md",
-    "Maths/10-09-2025.excalidraw.md",
-    "Photography/Summer Work/Photography Summer Work - Research.md"
->>>>>>> Stashed changes
+    "Pasted Image 20251119123821_790.png",
+    "Pasted Image 20251119122508_429.png",
+    "Maths/19-11-2025.excalidraw.md",
+    "Maths/18-11-2025.excalidraw.md",
+    "German/18-11-2025.md",
+    "Excalidraw/Pasted Image 20251117103906_337.png",
+    "Further Maths/17-11-2025.excalidraw.md",
+    "Excalidraw/Pasted Image 20251117122557_252.png",
+    "Excalidraw/Pasted Image 20251117105100_060.png",
+    "Excalidraw/17-11-2025.excalidraw.md",
+    "Excalidraw/Pasted Image 20251114134558_520.png"
   ]
 }
