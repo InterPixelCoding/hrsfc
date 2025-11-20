@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d3d585d168c7e56a",
+        "id": "30f01c17c729abfd",
         "type": "tabs",
         "children": [
           {
-            "id": "94970d50f5a67a3b",
+            "id": "2ca6485c5cf9274a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Maths/19-11-2025.excalidraw.md"
+                "file": "Excalidraw/Pasted Image 20251119122508_429.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "19-11-2025.excalidraw"
+              "icon": "lucide-image",
+              "title": "Pasted Image 20251119122508_429"
             }
           }
         ]
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "988c9e92994ffff9",
@@ -166,11 +165,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94970d50f5a67a3b",
+  "active": "0f6a8dcfa3824856",
   "lastOpenFiles": [
-    "Pasted Image 20251119123821_790.png",
-    "Pasted Image 20251119122508_429.png",
     "Maths/19-11-2025.excalidraw.md",
+    "Excalidraw/Pasted Image 20251119123821_790.png",
+    "Excalidraw/Pasted Image 20251119122508_429.png",
     "Maths/18-11-2025.excalidraw.md",
     "German/18-11-2025.md",
     "Excalidraw/Pasted Image 20251117103906_337.png",
