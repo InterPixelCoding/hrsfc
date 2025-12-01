@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b7115864e988ae14",
+        "id": "b6d79c9f53008489",
         "type": "tabs",
         "children": [
           {
-            "id": "4aa9c4f6216e5475",
+            "id": "49164f2dd3c3bcc7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/21-11-2025.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "21-11-2025.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -76,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "988c9e92994ffff9",
@@ -166,24 +163,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4aa9c4f6216e5475",
+  "active": "0f6a8dcfa3824856",
   "lastOpenFiles": [
-    "Excalidraw/21-11-2025.excalidraw.md",
+    "Excalidraw/28-11-2025.excalidraw.md",
+    "Excalidraw/Pasted Image 20251128143303_923.png",
+    "Excalidraw/Pasted Image 20251128142041_031.png",
+    "Excalidraw/Pasted Image 20251128140956_038.png",
+    "Excalidraw/Pasted Image 20251128135729_119.png",
+    "Excalidraw/Pasted Image 20251128135248_965.png",
+    "Excalidraw/Pasted Image 20251125160525_634.png",
+    "Maths/27-11-2025.excalidraw.md",
+    "German/25-11-2025.md",
+    "Maths/25-11-2025.excalidraw.md",
+    "Excalidraw/Pasted Image 20251125160830_500.png",
+    "Excalidraw/Pasted Image 20251125160704_853.png",
+    "Miscellaneous/Snooker Stats App.md",
+    "Excalidraw/Drawing 2025-11-24 10.10.02.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-25 10.23.00.excalidraw.md",
+    "Excalidraw/Pasted Image 20251124101503_843.png",
+    "German/24-11-2025.md",
+    "Further Maths/24-11-2025.excalidraw.md",
+    "Excalidraw/Pasted Image 20251124121954_611.png",
+    "Further Maths/14-11-2025.excalidraw 1.md",
+    "Maths/17-11-2025.excalidraw.md",
+    "Maths/24-11-2025.excalidraw.md",
+    "Further Maths/21-11-2025.excalidraw.md",
     "Maths/20-11-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251120093935_936.png",
     "Further Maths/20-11-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251120095008_261.png",
-    "Excalidraw/Pasted Image 20251119122508_429.png",
     "Maths/Due_14-11-2025.excalidraw.md",
     "Maths/19-11-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251119123821_790.png",
     "Maths/18-11-2025.excalidraw.md",
     "German/18-11-2025.md",
-    "Excalidraw/Pasted Image 20251117103906_337.png",
-    "Further Maths/17-11-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251117122557_252.png",
-    "Excalidraw/Pasted Image 20251117105100_060.png",
-    "Excalidraw/17-11-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251114134558_520.png"
+    "Further Maths/17-11-2025.excalidraw.md"
   ]
 }
