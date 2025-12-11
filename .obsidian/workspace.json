@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b6d79c9f53008489",
+        "id": "cb5706ff2518fa0e",
         "type": "tabs",
         "children": [
           {
-            "id": "49164f2dd3c3bcc7",
+            "id": "55013782c161e06a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Maths/03-12-2025.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "03-12-2025.excalidraw"
             }
           }
         ]
@@ -163,27 +165,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0f6a8dcfa3824856",
+  "active": "55013782c161e06a",
   "lastOpenFiles": [
+    "Maths/02-10-2025.excalidraw.md",
+    "Maths/Due_01-10-2025.excalidraw.png",
+    "Maths/Due_04-12-2025.excalidraw.md",
+    "Maths/Due_10-10-2025.excalidraw.md",
+    "Further Maths/Due_11-12-2025.excalidraw.md",
+    "Excalidraw/Pasted Image 20251119183440_455.png",
+    "Maths/03-12-2025.excalidraw.md",
+    "Excalidraw/Pasted Image 20251203214758_445.png",
+    "Excalidraw/Pasted Image 20251203214614_986.png",
+    "Excalidraw/Pasted Image 20251203214329_701.png",
+    "Excalidraw/Pasted Image 20251203213827_205.png",
     "Excalidraw/28-11-2025.excalidraw.md",
     "Excalidraw/Pasted Image 20251128143303_923.png",
     "Excalidraw/Pasted Image 20251128142041_031.png",
     "Excalidraw/Pasted Image 20251128140956_038.png",
     "Excalidraw/Pasted Image 20251128135729_119.png",
-    "Excalidraw/Pasted Image 20251128135248_965.png",
-    "Excalidraw/Pasted Image 20251125160525_634.png",
     "Maths/27-11-2025.excalidraw.md",
     "German/25-11-2025.md",
     "Maths/25-11-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251125160830_500.png",
-    "Excalidraw/Pasted Image 20251125160704_853.png",
     "Miscellaneous/Snooker Stats App.md",
     "Excalidraw/Drawing 2025-11-24 10.10.02.excalidraw.md",
     "Excalidraw/Drawing 2025-11-25 10.23.00.excalidraw.md",
-    "Excalidraw/Pasted Image 20251124101503_843.png",
     "German/24-11-2025.md",
     "Further Maths/24-11-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251124121954_611.png",
     "Further Maths/14-11-2025.excalidraw 1.md",
     "Maths/17-11-2025.excalidraw.md",
     "Maths/24-11-2025.excalidraw.md",
