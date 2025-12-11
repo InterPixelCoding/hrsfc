@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af18253ec290454d",
+        "id": "be092abc1e76ac12",
         "type": "tabs",
         "children": [
           {
-            "id": "ef14c63cf42515d1",
+            "id": "ac5fd3ff237f16ab",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Pasted Image 20251208120842_086.png"
+                "file": "German/11-12-2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20251208120842_086"
+              "icon": "lucide-file",
+              "title": "11-12-2025"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.5
   },
   "right": {
     "id": "988c9e92994ffff9",
@@ -166,42 +168,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0f6a8dcfa3824856",
+  "active": "ac5fd3ff237f16ab",
   "lastOpenFiles": [
-    "Excalidraw/08-12-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251208122201_526.png",
-    "Excalidraw/Pasted Image 20251208122141_267.png",
-    "Excalidraw/Pasted Image 20251208120842_086.png",
+    "German/11-12-2025.md",
+    "Maths/11-12-2025.excalidraw.md",
+    "Maths/Due_10-12-2025.excalidraw.md",
+    "Excalidraw/Pasted Image 20251209124720_715.png",
+    "Maths/Due_10-10-2025.excalidraw.md",
+    "Maths/Due_01-10-2025.excalidraw.png",
+    "Maths/Due_01-10-2025.excalidraw.md",
+    "Further Maths/08-12-2025.excalidraw.md",
+    "Maths/06-12-2025.excalidraw.md",
+    "Excalidraw/Pasted Image 20251209123839_381.png",
+    "Excalidraw/Pasted Image 20251209123958_914.png",
+    "Excalidraw/Pasted Image 20251209123935_130.png",
+    "Excalidraw/Pasted Image 20251209123909_058.png",
+    "EPQ/Untitled.canvas",
+    "EPQ/Extended-project_personal-audit-and-prep-for-induction-day-2025-1.md",
+    "EPQ/01-10-2025.excalidraw.md",
+    "Miscellaneous/Snooker Stats App.md",
+    "Further Maths/L6 MF Revision Paper 1.pdf",
+    "Further Maths/Further Maths Summer Work.excalidraw.md",
+    "Further Maths/further-maths-summer-workbook.pdf",
+    "Further Maths/20-11-2025.excalidraw.md",
+    "Further Maths/15-09-2025.excalidraw.md",
+    "Further Maths/16-10-2025.excalidraw.md",
+    "Excalidraw/Pasted Image 20250926131749_663.png",
+    "Excalidraw/Pasted Image 20250901182309_785.png",
+    "Photography/Summer Work/Photography Summer Work - Research.md",
+    "Photography/Summer Work/pngs/_-12.png",
+    "Photography/Summer Work/pngs/_-11.png",
     "Maths/08-12-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251206123532_430.png",
-    "Excalidraw/06-12-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251206130053_449.png",
-    "Excalidraw/Pasted Image 20251206125617_193.png",
     "German/04-12-2025.md",
     "Maths/04-12-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251204093636_635.png",
     "Further Maths/04-12-2025.excalidraw.md",
     "German/01-12-2025.md",
-    "Excalidraw/Pasted Image 20251201121630_642.png",
     "Further Maths/01-12-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251201122348_868.png",
     "Maths/01-12-2025.excalidraw.md",
     "Excalidraw/Drawing 2025-12-01 09.53.35.excalidraw.md",
     "Excalidraw/Drawing 2025-11-25 10.23.00.excalidraw.md",
     "Excalidraw/Drawing 2025-11-24 10.10.02.excalidraw.md",
-    "Further Maths/28-11-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251128143303_923.png",
-    "Maths/27-11-2025.excalidraw.md",
-    "German/25-11-2025.md",
-    "Maths/25-11-2025.excalidraw.md",
-    "Miscellaneous/Snooker Stats App.md",
-    "German/24-11-2025.md",
-    "Further Maths/24-11-2025.excalidraw.md",
-    "Further Maths/14-11-2025.excalidraw 1.md",
-    "Maths/17-11-2025.excalidraw.md",
-    "Maths/24-11-2025.excalidraw.md",
-    "Further Maths/21-11-2025.excalidraw.md",
-    "Maths/20-11-2025.excalidraw.md",
-    "Further Maths/20-11-2025.excalidraw.md"
+    "Further Maths/28-11-2025.excalidraw.md"
   ]
 }
