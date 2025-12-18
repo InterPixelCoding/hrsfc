@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "be092abc1e76ac12",
+        "id": "56d9e0b9c1dc5c83",
         "type": "tabs",
         "children": [
           {
-            "id": "ac5fd3ff237f16ab",
+            "id": "ca6c37943ed909f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "German/11-12-2025.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/18-12-2025.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "11-12-2025"
+              "icon": "excalidraw-icon",
+              "title": "18-12-2025.excalidraw"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "988c9e92994ffff9",
@@ -168,21 +167,38 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ac5fd3ff237f16ab",
+  "active": "ca6c37943ed909f0",
   "lastOpenFiles": [
+    "Excalidraw/18-12-2025.excalidraw.md",
+    "Further Maths/18-12-2025.excalidraw.md",
+    "Maths/16-12-2025.excalidraw.md",
+    "Excalidraw/Pasted Image 20251216155301_267.png",
+    "Excalidraw/Pasted Image 20251215105556_724.png",
+    "German/16-12-2025.md",
+    "Further Maths/15-12-2025.excalidraw.md",
+    "Excalidraw/Pasted Image 20251215110142_574.png",
+    "Excalidraw/Pasted Image 20251215105317_089.png",
+    "Excalidraw/Pasted Image 20251215105253_591.png",
+    "Excalidraw/Pasted Image 20251215105142_331.png",
+    "Excalidraw/Pasted Image 20251215104348_474.png",
+    "Excalidraw/Pasted Image 20251215102317_429.png",
+    "Excalidraw/Pasted Image 20251215102204_688.png",
+    "Excalidraw/Pasted Image 20251215101711_521.png",
+    "Maths/15-12-2025.excalidraw.md",
+    "Further Maths/12-12-2025.excalidraw.md",
+    "German/12-12-2025.md",
     "German/11-12-2025.md",
+    "Photography/pmo.blend",
+    "Photography/panorama.blend1",
+    "Photography/panorama.blend",
+    "Photography/oh dear.blend1",
+    "Photography/oh dear.blend",
     "Maths/11-12-2025.excalidraw.md",
     "Maths/Due_10-12-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251209124720_715.png",
     "Maths/Due_10-10-2025.excalidraw.md",
-    "Maths/Due_01-10-2025.excalidraw.png",
     "Maths/Due_01-10-2025.excalidraw.md",
     "Further Maths/08-12-2025.excalidraw.md",
     "Maths/06-12-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20251209123839_381.png",
-    "Excalidraw/Pasted Image 20251209123958_914.png",
-    "Excalidraw/Pasted Image 20251209123935_130.png",
-    "Excalidraw/Pasted Image 20251209123909_058.png",
     "EPQ/Untitled.canvas",
     "EPQ/Extended-project_personal-audit-and-prep-for-induction-day-2025-1.md",
     "EPQ/01-10-2025.excalidraw.md",
@@ -193,21 +209,9 @@
     "Further Maths/20-11-2025.excalidraw.md",
     "Further Maths/15-09-2025.excalidraw.md",
     "Further Maths/16-10-2025.excalidraw.md",
-    "Excalidraw/Pasted Image 20250926131749_663.png",
-    "Excalidraw/Pasted Image 20250901182309_785.png",
     "Photography/Summer Work/Photography Summer Work - Research.md",
-    "Photography/Summer Work/pngs/_-12.png",
-    "Photography/Summer Work/pngs/_-11.png",
     "Maths/08-12-2025.excalidraw.md",
     "German/04-12-2025.md",
-    "Maths/04-12-2025.excalidraw.md",
-    "Further Maths/04-12-2025.excalidraw.md",
-    "German/01-12-2025.md",
-    "Further Maths/01-12-2025.excalidraw.md",
-    "Maths/01-12-2025.excalidraw.md",
-    "Excalidraw/Drawing 2025-12-01 09.53.35.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-25 10.23.00.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-24 10.10.02.excalidraw.md",
-    "Further Maths/28-11-2025.excalidraw.md"
+    "Maths/04-12-2025.excalidraw.md"
   ]
 }
