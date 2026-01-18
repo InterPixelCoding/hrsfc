@@ -1,24 +1,22 @@
 {
   "main": {
-    "id": "8559374c8160cd81",
+    "id": "9efa2a1ad9dc6a76",
     "type": "split",
     "children": [
       {
-        "id": "31ed99c7295ed9a3",
+        "id": "890861ef3966f34f",
         "type": "tabs",
         "children": [
           {
-            "id": "4a9a7f1f1688a0c0",
+            "id": "445a323a1714441c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "15-01-2026.md",
-                "mode": "source",
-                "source": false
+                "file": "Further Maths/14-11-2025.excalidraw 1.md"
               },
-              "icon": "lucide-file",
-              "title": "15-01-2026"
+              "icon": "excalidraw-icon",
+              "title": "14-11-2025.excalidraw 1"
             }
           }
         ]
@@ -27,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9959a5286a509cf2",
+    "id": "bdcd03f3e4061cbf",
     "type": "split",
     "children": [
       {
-        "id": "7c22f8a0657f6601",
+        "id": "32a5387f84acbe78",
         "type": "tabs",
         "children": [
           {
-            "id": "812c331717cde229",
+            "id": "0f6a8dcfa3824856",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +46,7 @@
             }
           },
           {
-            "id": "5450b117220e645e",
+            "id": "661c3275209c7041",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +63,7 @@
             }
           },
           {
-            "id": "c6a4cc5efeae9518",
+            "id": "cb5f8ef015e00855",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +76,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "d3075ef613c7c887",
+    "id": "988c9e92994ffff9",
     "type": "split",
     "children": [
       {
-        "id": "278bd3d9e4d437ae",
+        "id": "bb75b35fab05daeb",
         "type": "tabs",
         "children": [
           {
-            "id": "d1dda55d28831ac2",
+            "id": "ac871195172f6e6a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Due_19-12-2025.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +101,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Due_19-12-2025.excalidraw"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "e92149794b822c18",
+            "id": "c457c6376f1b6a31",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Due_19-12-2025.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Due_19-12-2025.excalidraw"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "b4859d3e133442c2",
+            "id": "ba15e60bba533b42",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,18 +133,17 @@
             }
           },
           {
-            "id": "8ffcf5e3bdeb2f8f",
+            "id": "3d65608f993cd471",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Due_19-12-2025.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Due_19-12-2025.excalidraw"
+              "title": "Outline"
             }
           }
         ]
@@ -171,14 +165,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4a9a7f1f1688a0c0",
+  "active": "0f6a8dcfa3824856",
   "lastOpenFiles": [
-    "15-01-2026.md",
+    "Maths/Due_19-12-2025.excalidraw.md",
+    "Maths/18-12-2025.excalidraw.md",
+    "Maths/16-12-2025.excalidraw.md",
+    "Maths/15-12-2025.excalidraw.md",
     "Maths/15-01-2026.excalidraw.md",
     "Maths/13-01-2026.excalidraw.md",
+    "Maths/12-01-2026.excalidraw.md",
+    "German/16-12-2025.md",
     "German/13-01-2026.md",
-    "Excalidraw/Pasted Image 20260112101643_021.png",
+    "German/12-12-2025.md",
+    "German/08-01-2026.md",
+    "German/06-01-2026.md",
+    "Further Maths/18-12-2025.excalidraw.md",
+    "Further Maths/15-12-2025.excalidraw.md",
+    "Further Maths/12-12-2025.excalidraw.md",
     "Further Maths/12-01-2026.excalidraw.md",
+    "Further Maths/09-01-2026.excalidraw.md",
+    "Further Maths/09-01-2026-01.excalidraw.md",
+    "Excalidraw/Pasted image 20251212094718.png",
     "Excalidraw/Pasted Image 20260112120156_841.png",
     "Excalidraw/Pasted Image 20260112115301_536.png",
     "Excalidraw/Pasted Image 20260112115103_152.png",
@@ -186,17 +193,15 @@
     "Excalidraw/Pasted Image 20260112103424_981.png",
     "Excalidraw/Pasted Image 20260112102312_325.png",
     "Excalidraw/Pasted Image 20260112101750_819.png",
-    "Maths/12-01-2026.excalidraw.md",
+    "Excalidraw/Pasted Image 20260112101643_021.png",
     "Excalidraw/Pasted Image 20260112092304_457.png",
-    "Excalidraw/Drawing 2026-01-12 09.02.47_0.excalidraw.md",
-    "Excalidraw/Pasted Image 20260109153918_130.png",
-    "Further Maths/09-01-2026-01.excalidraw.md",
-    "Further Maths/09-01-2026.excalidraw.md",
-    "German/08-01-2026.md",
-    "German/01-12-2025.md",
-    "Excalidraw/Drawing 2026-01-08 13.11.43.excalidraw.md",
-    "Maths/18-12-2025.excalidraw.md",
-    "German/06-01-2026.md",
-    "Maths/Due_19-12-2025.excalidraw.md"
+    "15-01-2026.md",
+    "Excalidraw/15-01-2026.excalidraw.md",
+    "Maths/Revision_L6MA3.excalidraw.md",
+    "Maths/Due_10-12-2025.excalidraw.md",
+    "Maths/03-12-2025.excalidraw.md",
+    "Maths/11-12-2025.excalidraw.md",
+    "Maths/08-12-2025.excalidraw.md",
+    "Maths/06-12-2025.excalidraw.md"
   ]
 }
