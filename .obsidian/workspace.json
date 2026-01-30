@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "0fc630279bf23a7b",
         "type": "tabs",
         "children": [
@@ -15,6 +16,21 @@
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
+=======
+        "id": "890861ef3966f34f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "445a323a1714441c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Further Maths/14-11-2025.excalidraw 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "14-11-2025.excalidraw 1"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -163,6 +179,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+<<<<<<< Updated upstream
   "active": "0f6a8dcfa3824856",
   "lastOpenFiles": [
     "Maths/30-01-2026-02.excalidraw.md",
@@ -200,5 +217,45 @@
     "Maths/15-01-2026.excalidraw.md",
     "Excalidraw/Pasted image 20251212094718.png",
     "Excalidraw/Pasted Image 20260112120156_841.png"
+=======
+  "active": "445a323a1714441c",
+  "lastOpenFiles": [
+    "Excalidraw/15-01-2026.excalidraw.md",
+    "Excalidraw/GetImage.png",
+    "Maths/Revision_L6MA3.excalidraw.md",
+    "Maths/Due_10-12-2025.excalidraw.md",
+    "Maths/03-12-2025.excalidraw.md",
+    "Maths/11-12-2025.excalidraw.md",
+    "Maths/08-12-2025.excalidraw.md",
+    "Maths/06-12-2025.excalidraw.md",
+    "Maths/04-12-2025.excalidraw.md",
+    "Maths/01-12-2025.excalidraw.md",
+    "German/11-12-2025.md",
+    "German/04-12-2025.md",
+    "German/01-12-2025.md",
+    "Further Maths/28-11-2025.excalidraw.md",
+    "Further Maths/08-12-2025.excalidraw.md",
+    "Further Maths/04-12-2025.excalidraw.md",
+    "Further Maths/01-12-2025.excalidraw.md",
+    "Excalidraw/Pasted image 20250926092844.png",
+    "Excalidraw/Pasted Image 20251209124720_715.png",
+    "Excalidraw/Pasted Image 20251209123958_914.png",
+    "Excalidraw/Pasted Image 20251209123935_130.png",
+    "Excalidraw/Pasted Image 20251209123909_058.png",
+    "Excalidraw/Pasted Image 20251209123839_381.png",
+    "Excalidraw/Pasted Image 20251208122201_526.png",
+    "Excalidraw/Pasted Image 20251208122141_267.png",
+    "Excalidraw/Pasted Image 20251208120842_086.png",
+    "Maths/02-10-2025.excalidraw.md",
+    "Maths/Due_04-12-2025.excalidraw.md",
+    "Maths/Due_10-10-2025.excalidraw.md",
+    "Further Maths/Due_11-12-2025.excalidraw.md",
+    "Excalidraw/28-11-2025.excalidraw.md",
+    "Maths/27-11-2025.excalidraw.md",
+    "German/25-11-2025.md",
+    "Maths/25-11-2025.excalidraw.md",
+    "Miscellaneous/Snooker Stats App.md",
+    "Excalidraw/Drawing 2025-11-24 10.10.02.excalidraw.md"
+>>>>>>> Stashed changes
   ]
 }
