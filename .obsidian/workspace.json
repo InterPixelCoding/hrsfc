@@ -1,46 +1,20 @@
 {
   "main": {
-    "id": "9efa2a1ad9dc6a76",
+    "id": "b3fa36f6d82a3cf6",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        "id": "0fc630279bf23a7b",
+        "id": "ce37e22c34d39e48",
         "type": "tabs",
         "children": [
           {
-            "id": "5badacf593b5d6db",
+            "id": "28e1074047b7542b",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
-=======
-        "id": "890861ef3966f34f",
-        "type": "tabs",
-        "children": [
-          {
-=======
-        "id": "890861ef3966f34f",
-        "type": "tabs",
-        "children": [
-          {
->>>>>>> Stashed changes
-            "id": "445a323a1714441c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Further Maths/14-11-2025.excalidraw 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "14-11-2025.excalidraw 1"
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
             }
           }
         ]
@@ -49,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bdcd03f3e4061cbf",
+    "id": "0588695f2fedfd69",
     "type": "split",
     "children": [
       {
-        "id": "32a5387f84acbe78",
+        "id": "0dfd5cda5f4ca99b",
         "type": "tabs",
         "children": [
           {
-            "id": "0f6a8dcfa3824856",
+            "id": "3471bdb5c52a57cf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,7 +44,7 @@
             }
           },
           {
-            "id": "661c3275209c7041",
+            "id": "9a995dcf7568ab7f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -87,7 +61,7 @@
             }
           },
           {
-            "id": "cb5f8ef015e00855",
+            "id": "dd51871f1a9ef398",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -100,18 +74,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "988c9e92994ffff9",
+    "id": "b95a6dae156be141",
     "type": "split",
     "children": [
       {
-        "id": "bb75b35fab05daeb",
+        "id": "22228d0fe1951fee",
         "type": "tabs",
         "children": [
           {
-            "id": "ac871195172f6e6a",
+            "id": "d990e46438b24b4c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -129,7 +104,7 @@
             }
           },
           {
-            "id": "c457c6376f1b6a31",
+            "id": "c78de90298f3fd3d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -142,7 +117,7 @@
             }
           },
           {
-            "id": "ba15e60bba533b42",
+            "id": "6cb0058f7b964639",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,7 +132,7 @@
             }
           },
           {
-            "id": "3d65608f993cd471",
+            "id": "3d15427e268a7b0e",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -189,91 +164,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  "active": "0f6a8dcfa3824856",
+  "active": "28e1074047b7542b",
   "lastOpenFiles": [
-    "Maths/30-01-2026-02.excalidraw.md",
-    "Excalidraw/Pasted Image 20260130175001_058.png",
-    "Excalidraw/Pasted Image 20260130154929_820.png",
-    "Further Maths/30-01-2026-01.excalidraw.md",
-    "Excalidraw/Pasted Image 20260118184250_083.png",
-    "Excalidraw/Pasted Image 20260123155355_874.png",
-    "Excalidraw/Pasted Image 20260123154713_750.png",
-    "Excalidraw/Pasted Image 20260123153051_719.png",
-    "Maths/20-01-2026.excalidraw.md",
-    "Maths/19-01-2026.excalidraw.md",
-    "German/20-01-2026.md",
-    "German/19-01-2026.md",
-    "German/16-01-2026.md",
-    "German/15-01-2026.md",
-    "Further Maths/23-01-2026.excalidraw.md",
-    "Further Maths/22-01-2026.excalidraw.md",
-    "Further Maths/19-01-2026.excalidraw.md",
-    "Further Maths/16-01-2026.excalidraw.md",
-    "Excalidraw/Pasted Image 20260116153700_694.png",
-    "Excalidraw/Pasted Image 20260121220105_768.png",
-    "Maths/Due_22-01-2026.excalidraw.md",
-    "Excalidraw/18-01-2026.excalidraw.md",
-    "Further Maths/09-01-2026.excalidraw.md",
-    "Further Maths/09-01-2026-01.excalidraw.md",
-    "Further Maths/29-09-2025.excalidraw.md",
-    "Further Maths/14-11-2025.excalidraw 1.md",
-    "Maths/Revision_L6MA3.excalidraw.md",
-    "Excalidraw/15-01-2026.excalidraw.md",
-    "Maths/Due_19-12-2025.excalidraw.md",
-    "Maths/18-12-2025.excalidraw.md",
-    "Maths/16-12-2025.excalidraw.md",
-    "Maths/15-12-2025.excalidraw.md",
-    "Maths/15-01-2026.excalidraw.md",
-    "Excalidraw/Pasted image 20251212094718.png",
-    "Excalidraw/Pasted Image 20260112120156_841.png"
-=======
-  "active": "445a323a1714441c",
-  "lastOpenFiles": [
-=======
-  "active": "445a323a1714441c",
-  "lastOpenFiles": [
->>>>>>> Stashed changes
-    "Excalidraw/15-01-2026.excalidraw.md",
-    "Excalidraw/GetImage.png",
-    "Maths/Revision_L6MA3.excalidraw.md",
-    "Maths/Due_10-12-2025.excalidraw.md",
-    "Maths/03-12-2025.excalidraw.md",
-    "Maths/11-12-2025.excalidraw.md",
-    "Maths/08-12-2025.excalidraw.md",
-    "Maths/06-12-2025.excalidraw.md",
-    "Maths/04-12-2025.excalidraw.md",
-    "Maths/01-12-2025.excalidraw.md",
-    "German/11-12-2025.md",
-    "German/04-12-2025.md",
-    "German/01-12-2025.md",
-    "Further Maths/28-11-2025.excalidraw.md",
-    "Further Maths/08-12-2025.excalidraw.md",
-    "Further Maths/04-12-2025.excalidraw.md",
-    "Further Maths/01-12-2025.excalidraw.md",
-    "Excalidraw/Pasted image 20250926092844.png",
-    "Excalidraw/Pasted Image 20251209124720_715.png",
-    "Excalidraw/Pasted Image 20251209123958_914.png",
-    "Excalidraw/Pasted Image 20251209123935_130.png",
-    "Excalidraw/Pasted Image 20251209123909_058.png",
-    "Excalidraw/Pasted Image 20251209123839_381.png",
-    "Excalidraw/Pasted Image 20251208122201_526.png",
-    "Excalidraw/Pasted Image 20251208122141_267.png",
-    "Excalidraw/Pasted Image 20251208120842_086.png",
-    "Maths/02-10-2025.excalidraw.md",
-    "Maths/Due_04-12-2025.excalidraw.md",
-    "Maths/Due_10-10-2025.excalidraw.md",
-    "Further Maths/Due_11-12-2025.excalidraw.md",
-    "Excalidraw/28-11-2025.excalidraw.md",
-    "Maths/27-11-2025.excalidraw.md",
-    "German/25-11-2025.md",
-    "Maths/25-11-2025.excalidraw.md",
-    "Miscellaneous/Snooker Stats App.md",
-    "Excalidraw/Drawing 2025-11-24 10.10.02.excalidraw.md"
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+    "Maths/01-02-2026.excalidraw.md",
+    "Excalidraw/Pasted Image 20260201115234_390.png",
+    "Maths/31-01-2026-02.excalidraw.md",
+    "Excalidraw/Pasted Image 20260131172656_488.png",
+    "Further Maths/30-01-2026-02.excalidraw.md",
+    "Excalidraw/Pasted Image 20260131113901_818.png",
+    "Excalidraw/Pasted Image 20260131104732_434.png"
   ]
 }
