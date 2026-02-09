@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< Updated upstream
     "id": "b3fa36f6d82a3cf6",
     "type": "split",
     "children": [
@@ -15,6 +16,25 @@
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
+=======
+    "id": "aa00c699c7eb88dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfa407a20760a662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96c5ec9a0b1e276f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Further Maths/08-02-2026.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "08-02-2026.excalidraw"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -23,6 +43,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< Updated upstream
     "id": "0588695f2fedfd69",
     "type": "split",
     "children": [
@@ -32,6 +53,17 @@
         "children": [
           {
             "id": "3471bdb5c52a57cf",
+=======
+    "id": "0166213f5bccda11",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e89e00cf691b0b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08395550d05430bc",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +76,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "9a995dcf7568ab7f",
+=======
+            "id": "9e29f17a22fe5d59",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +97,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "dd51871f1a9ef398",
+=======
+            "id": "d676765c770a6d30",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,6 +118,7 @@
     "collapsed": true
   },
   "right": {
+<<<<<<< Updated upstream
     "id": "b95a6dae156be141",
     "type": "split",
     "children": [
@@ -87,10 +128,22 @@
         "children": [
           {
             "id": "d990e46438b24b4c",
+=======
+    "id": "5701a394216ed902",
+    "type": "split",
+    "children": [
+      {
+        "id": "68253508316e801d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a4c687a21f8c575",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/n_circles.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,24 +153,33 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for n_circles.excalidraw"
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "c78de90298f3fd3d",
+=======
+            "id": "af65d72384115329",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/n_circles.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from n_circles.excalidraw"
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "6cb0058f7b964639",
+=======
+            "id": "dd6ceb4915f6b4fa",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,17 +194,22 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "3d15427e268a7b0e",
+=======
+            "id": "acb552fb87624710",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/n_circles.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of n_circles.excalidraw"
             }
           }
         ]
@@ -164,6 +231,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+<<<<<<< Updated upstream
   "active": "28e1074047b7542b",
   "lastOpenFiles": [
     "Maths/01-02-2026.excalidraw.md",
@@ -173,5 +241,13 @@
     "Further Maths/30-01-2026-02.excalidraw.md",
     "Excalidraw/Pasted Image 20260131113901_818.png",
     "Excalidraw/Pasted Image 20260131104732_434.png"
+=======
+  "active": "96c5ec9a0b1e276f",
+  "lastOpenFiles": [
+    "Further Maths/08-02-2026.excalidraw.md",
+    "Maths/n_circles.excalidraw.md",
+    "Excalidraw/Pasted Image 20260207165445_931.png",
+    "Untitled.md"
+>>>>>>> Stashed changes
   ]
 }
