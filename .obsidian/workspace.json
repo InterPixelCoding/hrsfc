@@ -1,69 +1,52 @@
 {
   "main": {
-<<<<<<< Updated upstream
-    "id": "b3fa36f6d82a3cf6",
+    "id": "772bc701f41a326b",
     "type": "split",
     "children": [
       {
-        "id": "ce37e22c34d39e48",
+        "id": "0c93d9074aa95c04",
         "type": "tabs",
         "children": [
           {
-            "id": "28e1074047b7542b",
+            "id": "6d298396eedac5dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-=======
-    "id": "aa00c699c7eb88dd",
-    "type": "split",
-    "children": [
-      {
-        "id": "cfa407a20760a662",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "96c5ec9a0b1e276f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Further Maths/08-02-2026.excalidraw.md"
+                "file": "Excalidraw/Pasted Image 20260226200306_669.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "08-02-2026.excalidraw"
->>>>>>> Stashed changes
+              "icon": "lucide-image",
+              "title": "Pasted Image 20260226200306_669"
+            }
+          },
+          {
+            "id": "af46ef694e4c85fd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< Updated upstream
-    "id": "0588695f2fedfd69",
+    "id": "a2ecb43fceb0be92",
     "type": "split",
     "children": [
       {
-        "id": "0dfd5cda5f4ca99b",
+        "id": "dc02286d8dad921f",
         "type": "tabs",
         "children": [
           {
-            "id": "3471bdb5c52a57cf",
-=======
-    "id": "0166213f5bccda11",
-    "type": "split",
-    "children": [
-      {
-        "id": "8e89e00cf691b0b6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "08395550d05430bc",
->>>>>>> Stashed changes
+            "id": "fa749ea86aa4b4e4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,11 +59,7 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "9a995dcf7568ab7f",
-=======
-            "id": "9e29f17a22fe5d59",
->>>>>>> Stashed changes
+            "id": "a741328ff1c4ab21",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -97,11 +76,7 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "dd51871f1a9ef398",
-=======
-            "id": "d676765c770a6d30",
->>>>>>> Stashed changes
+            "id": "6d56e81f208ab652",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -114,36 +89,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-<<<<<<< Updated upstream
-    "id": "b95a6dae156be141",
+    "id": "6580c11cf512f422",
     "type": "split",
     "children": [
       {
-        "id": "22228d0fe1951fee",
+        "id": "a4cbf99bd25c705d",
         "type": "tabs",
         "children": [
           {
-            "id": "d990e46438b24b4c",
-=======
-    "id": "5701a394216ed902",
-    "type": "split",
-    "children": [
-      {
-        "id": "68253508316e801d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0a4c687a21f8c575",
->>>>>>> Stashed changes
+            "id": "a9b3669bca78abbe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/n_circles.excalidraw.md",
+                "file": "German/24-02-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,33 +115,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for n_circles.excalidraw"
+              "title": "Backlinks for 24-02-2026"
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "c78de90298f3fd3d",
-=======
-            "id": "af65d72384115329",
->>>>>>> Stashed changes
+            "id": "85343ccbf89f2e41",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/n_circles.excalidraw.md",
+                "file": "German/24-02-2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from n_circles.excalidraw"
+              "title": "Outgoing links from 24-02-2026"
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "6cb0058f7b964639",
-=======
-            "id": "dd6ceb4915f6b4fa",
->>>>>>> Stashed changes
+            "id": "a05e26febf765b24",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -194,22 +148,18 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "3d15427e268a7b0e",
-=======
-            "id": "acb552fb87624710",
->>>>>>> Stashed changes
+            "id": "f175d7e2a75fbd5b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/n_circles.excalidraw.md",
+                "file": "German/24-02-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of n_circles.excalidraw"
+              "title": "Outline of 24-02-2026"
             }
           }
         ]
@@ -231,23 +181,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "28e1074047b7542b",
+  "active": "af46ef694e4c85fd",
   "lastOpenFiles": [
-    "Maths/01-02-2026.excalidraw.md",
-    "Excalidraw/Pasted Image 20260201115234_390.png",
-    "Maths/31-01-2026-02.excalidraw.md",
-    "Excalidraw/Pasted Image 20260131172656_488.png",
-    "Further Maths/30-01-2026-02.excalidraw.md",
-    "Excalidraw/Pasted Image 20260131113901_818.png",
-    "Excalidraw/Pasted Image 20260131104732_434.png"
-=======
-  "active": "96c5ec9a0b1e276f",
-  "lastOpenFiles": [
-    "Further Maths/08-02-2026.excalidraw.md",
-    "Maths/n_circles.excalidraw.md",
-    "Excalidraw/Pasted Image 20260207165445_931.png",
-    "Untitled.md"
->>>>>>> Stashed changes
+    "Excalidraw/26-02-2026.excalidraw.md",
+    "Excalidraw/Pasted Image 20260301181100_777.png",
+    "Excalidraw/Pasted Image 20260301175807_152.png",
+    "Excalidraw/Pasted Image 20260301175620_081.png",
+    "Excalidraw/Pasted Image 20260226205619_625.png",
+    "Excalidraw/Pasted Image 20260226203912_381.png",
+    "Excalidraw/Pasted Image 20260226200306_669.png",
+    "Maths/26-02-2026.excalidraw.md",
+    "Excalidraw/Pasted Image 20260226074331_083.png",
+    "Further Maths/25-02-2026.excalidraw.md",
+    "German/24-02-2026.md",
+    "German/19-01-2026.md",
+    "German/24-11-2025.md",
+    "German/07-10-2025.md",
+    "German/06-01-2026.md",
+    "German/13-01-2026.md",
+    "German/20-01-2026.md",
+    "German/16-01-2026.md",
+    "German/15-01-2026.md",
+    "German/08-01-2026.md",
+    "German/06-10-2025.md"
   ]
 }
