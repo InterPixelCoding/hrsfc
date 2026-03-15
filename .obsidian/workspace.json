@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0c93d9074aa95c04",
+        "id": "9cbd24462024d6b3",
         "type": "tabs",
         "children": [
           {
-            "id": "6d298396eedac5dd",
+            "id": "c279e53633f98d16",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/Pasted Image 20260226200306_669.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20260226200306_669"
-            }
-          },
-          {
-            "id": "af46ef694e4c85fd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 418.5
   },
   "right": {
     "id": "6580c11cf512f422",
@@ -181,17 +166,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "af46ef694e4c85fd",
+  "active": "c279e53633f98d16",
   "lastOpenFiles": [
-    "Excalidraw/26-02-2026.excalidraw.md",
-    "Excalidraw/Pasted Image 20260301181100_777.png",
-    "Excalidraw/Pasted Image 20260301175807_152.png",
-    "Excalidraw/Pasted Image 20260301175620_081.png",
-    "Excalidraw/Pasted Image 20260226205619_625.png",
-    "Excalidraw/Pasted Image 20260226203912_381.png",
-    "Excalidraw/Pasted Image 20260226200306_669.png",
+    "Maths/Due_06-03-2026.excalidraw.md",
+    "Untitled.md",
+    "Photography/Summer Work/Photography Summer Work - Research.md",
+    "Photography/Summer Work/pngs/_-12.png",
+    "Photography/Summer Work/pngs/_-11.png",
+    "Photography/Summer Work/pngs/_-10.png",
+    "Photography/Summer Work/pngs/_-9.png",
+    "Photography/Summer Work/pngs/_-8.png",
+    "Photography/Summer Work/pngs/_-7.png",
+    "Photography/Summer Work/pngs/_-6.png",
+    "Photography/Summer Work/pngs/_-5.png",
+    "Photography/Summer Work/pngs/_-4.png",
+    "Photography/Summer Work/pngs/_-3.png",
+    "Maths/04-03-2026.excalidraw.md",
+    "Miscellaneous/White Gold",
+    "Miscellaneous/white_gold.excalidraw.md",
+    "Miscellaneous/White Gold/Snooker Stats App.md",
+    "Further Maths/26-02-2026.excalidraw.md",
+    "Maths/09-02-2026.excalidraw 1.md",
+    "Further Maths/06-02-2026.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-05 17.53.17.excalidraw.md",
     "Maths/26-02-2026.excalidraw.md",
-    "Excalidraw/Pasted Image 20260226074331_083.png",
     "Further Maths/25-02-2026.excalidraw.md",
     "German/24-02-2026.md",
     "German/19-01-2026.md",
