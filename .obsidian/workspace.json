@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c4ef9b345017a20b",
+        "id": "e23b488989cad143",
         "type": "tabs",
         "children": [
           {
-            "id": "561a78751f663330",
+            "id": "fa34478169851430",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "German/11-02-2026.md",
-                "mode": "source",
-                "source": false
+                "file": "Further Maths/20-03-2026.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "11-02-2026"
+              "icon": "excalidraw-icon",
+              "title": "20-03-2026.excalidraw"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "b95a6dae156be141",
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/18-02-2026.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 18-02-2026.excalidraw"
             }
           },
           {
@@ -152,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -167,41 +167,43 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "561a78751f663330",
+  "active": "fa34478169851430",
   "lastOpenFiles": [
-    "Maths/05-02-2026.excalidraw.md",
-    "Maths/05-02-2026-01.excalidraw.md",
-    "Maths/03-02-2026.excalidraw.md",
-    "Maths/02-02-2026.excalidraw.md",
-    "German/06-02-2026.md",
-    "German/03-02-2026.md",
-    "Further Maths/05-02-2026.excalidraw.md",
-    "Further Maths/02-02-2026.excalidraw.md",
-    "Excalidraw/Pasted Image 20260205111044_683.png",
-    "Excalidraw/Pasted Image 20260202122330_870.png",
-    "Excalidraw/Pasted Image 20260202120029_190.png",
-    "Excalidraw/Pasted Image 20260202114020_250.png",
-    "Excalidraw/Pasted Image 20260202104657_547.png",
-    "Excalidraw/06-02-2026.excalidraw.md",
-    "Maths/11-02-2026.excalidraw.md",
-    "Pasted Image 20260215143843_208.png",
-    "Pasted Image 20260211102756_544.png",
-    "Pasted Image 20260211095903_910.png",
-    "Pasted Image 20260211095507_171.png",
-    "Pasted Image 20260211093951_758.png",
-    "German/11-02-2026.md",
-    "German/16-01-2026.md",
-    "German/13-01-2026.md",
-    "German/03-10-2025.md",
-    "Further Maths/08-02-2026.excalidraw.md",
-    "Excalidraw/09-02-2026.excalidraw.md",
-    "Maths/09-02-2026.excalidraw.md",
-    "Maths/18-01-2026.excalidraw.md",
-    "Further Maths/15-01-2026.excalidraw.md",
-    "Maths/n_circles.excalidraw.md",
-    "Excalidraw/Drawing 2026-02-05 09.05.03.excalidraw.md",
-    "Maths/01-02-2026.excalidraw.md",
-    "Maths/31-01-2026-02.excalidraw.md",
-    "Further Maths/30-01-2026-02.excalidraw.md"
+    "Pasted Image 20260320154558_642.png",
+    "Pasted Image 20260320154136_093.png",
+    "Pasted Image 20260320153753_286.png",
+    "Pasted Image 20260320152754_225.png",
+    "Pasted Image 20260320152400_103.png",
+    "Pasted Image 20260320151956_729.png",
+    "Pasted Image 20260320151728_917.png",
+    "Excalidraw/Pasted Image 20260318141548_993.png",
+    "Further Maths/20-03-2026.excalidraw.md",
+    "Maths/19-03-2026.excalidraw.md",
+    "Excalidraw/Pasted Image 20260319103820_291.png",
+    "Further Maths/18-03-2026.excalidraw.md",
+    "Further Maths/19-03-2026.excalidraw.md",
+    "Excalidraw/Pasted Image 20260319095145_193.png",
+    "Excalidraw/Pasted Image 20260319094035_861.png",
+    "Maths/17-03-2026.excalidraw.md",
+    "German/17-03-2026.md",
+    "Further Maths/16-03-2026.excalidraw.md",
+    "Further Maths/13-03-2026.excalidraw.md",
+    "Maths/12-03-2026.excalidraw.md",
+    "Further Maths/12-03-2026.excalidraw.md",
+    "Maths/10-03-2026.excalidraw.md",
+    "German/09-03-2026.md",
+    "Excalidraw/Drawing 2026-03-09 15.08.23.excalidraw.md",
+    "Further Maths/09-03-2026.excalidraw.md",
+    "Maths/09-03-2026.excalidraw.md",
+    "Maths/03-03-2026.excalidraw.md",
+    "German/03-03-2026.md",
+    "Further Maths/03-02-2026.excalidraw.md",
+    "Maths/02-03-2026.excalidraw.md",
+    "Further Maths/27-02-2026.excalidraw.md",
+    "Maths/26-02-2026.excalidraw.md",
+    "Maths/25-02-2026.excalidraw.md",
+    "Maths/24-02-2026.excalidraw.md",
+    "German/24-02-2026.md",
+    "German/23-02-2026.md"
   ]
 }
