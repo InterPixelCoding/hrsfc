@@ -4,46 +4,19 @@
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
         "id": "e23b488989cad143",
         "type": "tabs",
         "children": [
           {
             "id": "fa34478169851430",
-=======
-        "id": "27c0101fc730a9e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "63ad928b5085f4e6",
->>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-<<<<<<< Updated upstream
                 "file": "Further Maths/20-03-2026.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "20-03-2026.excalidraw"
-=======
-                "file": "Excalidraw/06-02-2026.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "06-02-2026.excalidraw"
-            }
-          },
-          {
-            "id": "e9a1c9b2336b2773",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
->>>>>>> Stashed changes
             }
           }
         ]
@@ -194,21 +167,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-<<<<<<< Updated upstream
   "active": "fa34478169851430",
   "lastOpenFiles": [
+    "Excalidraw/Pasted Image 20260320154558_642.png",
+    "Excalidraw/Pasted Image 20260320154136_093.png",
+    "Excalidraw/Pasted Image 20260320153753_286.png",
+    "Excalidraw/Pasted Image 20260320152754_225.png",
+    "Excalidraw/Pasted Image 20260320152400_103.png",
+    "Excalidraw/Pasted Image 20260320151956_729.png",
+    "Excalidraw/Pasted Image 20260320151728_917.png",
+    "Excalidraw/06-02-2026.excalidraw.md",
     "Miscellaneous/White Gold/Snooker Stats App.md",
     "Miscellaneous/White Gold/Pasted Image 20260305180440_373.png",
     "Miscellaneous/White Gold/Pasted Image 20260305180343_049.png",
     "Miscellaneous/White Gold/Pasted Image 20260305180309_802.png",
     "Miscellaneous/White Gold/Pasted Image 20260305180117_639.png",
-    "Miscellaneous/White Gold/Pasted Image 20260305175702_313.png",
-    "Miscellaneous/White Gold/Pasted Image 20260305175511_149.png",
     "Miscellaneous/White Gold",
-    "Pasted Image 20260320154558_642.png",
-    "Pasted Image 20260320154136_093.png",
-    "Pasted Image 20260320153753_286.png",
-    "Pasted Image 20260320152754_225.png",
     "Further Maths/20-03-2026.excalidraw.md",
     "Maths/19-03-2026.excalidraw.md",
     "Further Maths/18-03-2026.excalidraw.md",
@@ -231,36 +205,6 @@
     "Further Maths/27-02-2026.excalidraw.md",
     "Maths/26-02-2026.excalidraw.md",
     "Maths/25-02-2026.excalidraw.md",
-    "Maths/24-02-2026.excalidraw.md",
-    "German/24-02-2026.md",
-    "German/23-02-2026.md"
-=======
-  "active": "63ad928b5085f4e6",
-  "lastOpenFiles": [
-    "Excalidraw/06-02-2026.excalidraw.md",
-    "German/06-02-2026.md",
-    "Maths/05-02-2026-01.excalidraw.md",
-    "Maths/05-02-2026.excalidraw.md",
-    "Further Maths/05-02-2026.excalidraw.md",
-    "Further Maths/02-02-2026.excalidraw.md",
-    "Excalidraw/Pasted Image 20260205111044_683.png",
-    "Excalidraw/Drawing 2026-02-05 09.05.03.excalidraw.md",
-    "Maths/03-02-2026.excalidraw.md",
-    "German/03-02-2026.md",
-    "Excalidraw/Pasted Image 20260202122330_870.png",
-    "Excalidraw/Pasted Image 20260202120029_190.png",
-    "Excalidraw/Pasted Image 20260202114020_250.png",
-    "Excalidraw/Pasted Image 20260202104657_547.png",
-    "Maths/18-01-2026.excalidraw.md",
-    "Further Maths/15-01-2026.excalidraw.md",
-    "Maths/02-02-2026.excalidraw.md",
-    "Maths/01-02-2026.excalidraw.md",
-    "Excalidraw/Pasted Image 20260201115234_390.png",
-    "Maths/31-01-2026-02.excalidraw.md",
-    "Excalidraw/Pasted Image 20260131172656_488.png",
-    "Further Maths/30-01-2026-02.excalidraw.md",
-    "Excalidraw/Pasted Image 20260131113901_818.png",
-    "Excalidraw/Pasted Image 20260131104732_434.png"
->>>>>>> Stashed changes
+    "Maths/24-02-2026.excalidraw.md"
   ]
 }
