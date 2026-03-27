@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9cbd24462024d6b3",
+        "id": "3158e9fa05d60dca",
         "type": "tabs",
         "children": [
           {
-            "id": "c279e53633f98d16",
+            "id": "d68e9cef6a3cbead",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Further Maths/26-03-2026.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "26-03-2026.excalidraw"
             }
           }
         ]
@@ -30,19 +32,6 @@
         "id": "dc02286d8dad921f",
         "type": "tabs",
         "children": [
-          {
-            "id": "fa749ea86aa4b4e4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "a741328ff1c4ab21",
             "type": "leaf",
@@ -69,12 +58,27 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "fa749ea86aa4b4e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 418.5,
+    "collapsed": true
   },
   "right": {
     "id": "6580c11cf512f422",
@@ -166,10 +170,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c279e53633f98d16",
+  "active": "d68e9cef6a3cbead",
   "lastOpenFiles": [
-    "Maths/Due_06-03-2026.excalidraw.md",
     "Untitled.md",
+    "Further Maths/26-03-2026.excalidraw.md",
+    "Further Maths/15-03-2026.excalidraw.md",
+    "Maths/15-03-2026.excalidraw.md",
+    "Excalidraw/Pasted Image 20260315114426_227.png",
+    "Maths/Due_06-03-2026.excalidraw.md",
     "Photography/Summer Work/Photography Summer Work - Research.md",
     "Photography/Summer Work/pngs/_-12.png",
     "Photography/Summer Work/pngs/_-11.png",
@@ -180,7 +188,6 @@
     "Photography/Summer Work/pngs/_-6.png",
     "Photography/Summer Work/pngs/_-5.png",
     "Photography/Summer Work/pngs/_-4.png",
-    "Photography/Summer Work/pngs/_-3.png",
     "Maths/04-03-2026.excalidraw.md",
     "Miscellaneous/White Gold",
     "Miscellaneous/white_gold.excalidraw.md",
