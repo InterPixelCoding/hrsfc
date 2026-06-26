@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2927cf881a3207ab",
+        "id": "483d58114b79c5e7",
         "type": "tabs",
         "children": [
           {
-            "id": "df2c4762fd6c458e",
+            "id": "004864fc43343e2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German/Mock Oral Cards.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mock Oral Cards"
-            }
-          },
-          {
-            "id": "2a4a5e195beb93e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "German/Truncated Oral Cards.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Truncated Oral Cards"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "b95a6dae156be141",
@@ -184,18 +164,33 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2a4a5e195beb93e8",
+  "active": "3471bdb5c52a57cf",
   "lastOpenFiles": [
+    "Maths/30-04-2026.excalidraw.md",
+    "Maths/28-04-2026.excalidraw.md",
+    "Maths/06-05-2026.excalidraw.md",
+    "Further Maths/30-04-2026.excalidraw.md",
+    "Further Maths/30-04-2026-01.excalidraw.md",
+    "Further Maths/14-11-2025-03.excalidraw.md",
+    "Further Maths/06-05-2026.excalidraw.md",
+    "Excalidraw/Pasted Image 20260505202043_641.png",
+    "Excalidraw/Pasted Image 20260430121246_384.png",
+    "Excalidraw/Pasted Image 20260430120545_695.png",
+    "Excalidraw/Pasted Image 20260430114542_707.png",
+    "Excalidraw/Pasted Image 20260430105958_442.png",
+    "Excalidraw/Pasted Image 20260430105806_078.png",
+    "Excalidraw/Pasted Image 20260430105436_442.png",
+    "Excalidraw/Pasted Image 20260430103644_674.png",
+    "Excalidraw/Pasted Image 20260430092611_737.png",
+    "Excalidraw/Pasted Image 20260430091613_531.png",
+    "Maths/06-05-2026-01.excalidraw.md",
+    "Further Maths/14-11-2025.excalidraw 1.md",
+    "Further Maths/14-11-2025-01.excalidraw.md",
+    "Further Maths/14-11-2025-02.excalidraw.md",
     "German/Mock Oral Cards.md",
     "German/Truncated Oral Cards.md",
+    "Excalidraw/06-02-2026.excalidraw.md",
     "Further Maths/27-04-2026.excalidraw.md",
-    "Pasted Image 20260427104814_628.png",
-    "Pasted Image 20260427103927_346.png",
-    "Pasted Image 20260427102958_765.png",
-    "Pasted Image 20260427102917_132.png",
-    "Pasted Image 20260427102155_752.png",
-    "Pasted Image 20260427102042_259.png",
-    "Pasted Image 20260427101928_340.png",
     "Maths/27-04-2026.excalidraw.md",
     "Further Maths/20-03-2026.excalidraw.md",
     "Maths/25-04-2026.excalidraw.md",
@@ -203,24 +198,9 @@
     "Maths/06-02-2026.excalidraw 1.md",
     "Further Maths/26-03-2026.excalidraw.md",
     "Further Maths/15-03-2026.excalidraw.md",
-    "Excalidraw/Pasted Image 20260315114426_227.png",
-    "Excalidraw/Pasted Image 20260320154558_642.png",
-    "Excalidraw/Pasted Image 20260320154136_093.png",
-    "Excalidraw/06-02-2026.excalidraw.md",
     "Miscellaneous/White Gold/Snooker Stats App.md",
     "Miscellaneous/White Gold",
     "Maths/19-03-2026.excalidraw.md",
-    "Further Maths/18-03-2026.excalidraw.md",
-    "Further Maths/19-03-2026.excalidraw.md",
-    "Maths/17-03-2026.excalidraw.md",
-    "German/17-03-2026.md",
-    "Further Maths/16-03-2026.excalidraw.md",
-    "Further Maths/13-03-2026.excalidraw.md",
-    "Maths/12-03-2026.excalidraw.md",
-    "Further Maths/12-03-2026.excalidraw.md",
-    "Maths/10-03-2026.excalidraw.md",
-    "German/09-03-2026.md",
-    "Excalidraw/Drawing 2026-03-09 15.08.23.excalidraw.md",
-    "Further Maths/09-03-2026.excalidraw.md"
+    "Further Maths/18-03-2026.excalidraw.md"
   ]
 }
