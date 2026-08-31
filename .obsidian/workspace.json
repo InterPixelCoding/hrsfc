@@ -1,20 +1,22 @@
 {
   "main": {
-    "id": "b3fa36f6d82a3cf6",
+    "id": "772bc701f41a326b",
     "type": "split",
     "children": [
       {
-        "id": "483d58114b79c5e7",
+        "id": "490a5ac77d0c24e2",
         "type": "tabs",
         "children": [
           {
-            "id": "004864fc43343e2a",
+            "id": "a5e7c5aad9893106",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Maths/Summer Work P1.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Summer Work P1.excalidraw"
             }
           }
         ]
@@ -23,28 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0588695f2fedfd69",
+    "id": "a2ecb43fceb0be92",
     "type": "split",
     "children": [
       {
-        "id": "0dfd5cda5f4ca99b",
+        "id": "dc02286d8dad921f",
         "type": "tabs",
         "children": [
           {
-            "id": "3471bdb5c52a57cf",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "9a995dcf7568ab7f",
+            "id": "a741328ff1c4ab21",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +50,7 @@
             }
           },
           {
-            "id": "dd51871f1a9ef398",
+            "id": "6d56e81f208ab652",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,28 +58,42 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "fa749ea86aa4b4e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 418.5
   },
   "right": {
-    "id": "b95a6dae156be141",
+    "id": "6580c11cf512f422",
     "type": "split",
     "children": [
       {
-        "id": "22228d0fe1951fee",
+        "id": "a4cbf99bd25c705d",
         "type": "tabs",
         "children": [
           {
-            "id": "d990e46438b24b4c",
+            "id": "a9b3669bca78abbe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/18-02-2026.excalidraw.md",
+                "file": "German/24-02-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,24 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 18-02-2026.excalidraw"
+              "title": "Backlinks for 24-02-2026"
             }
           },
           {
-            "id": "c78de90298f3fd3d",
+            "id": "85343ccbf89f2e41",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "German/24-02-2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 24-02-2026"
             }
           },
           {
-            "id": "6cb0058f7b964639",
+            "id": "a05e26febf765b24",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,24 +136,25 @@
             }
           },
           {
-            "id": "3d15427e268a7b0e",
+            "id": "f175d7e2a75fbd5b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "German/24-02-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 24-02-2026"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,43 +169,52 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3471bdb5c52a57cf",
+  "active": "a5e7c5aad9893106",
   "lastOpenFiles": [
-    "Maths/30-04-2026.excalidraw.md",
-    "Maths/28-04-2026.excalidraw.md",
-    "Maths/06-05-2026.excalidraw.md",
-    "Further Maths/30-04-2026.excalidraw.md",
-    "Further Maths/30-04-2026-01.excalidraw.md",
-    "Further Maths/14-11-2025-03.excalidraw.md",
-    "Further Maths/06-05-2026.excalidraw.md",
-    "Excalidraw/Pasted Image 20260505202043_641.png",
-    "Excalidraw/Pasted Image 20260430121246_384.png",
-    "Excalidraw/Pasted Image 20260430120545_695.png",
-    "Excalidraw/Pasted Image 20260430114542_707.png",
-    "Excalidraw/Pasted Image 20260430105958_442.png",
-    "Excalidraw/Pasted Image 20260430105806_078.png",
-    "Excalidraw/Pasted Image 20260430105436_442.png",
-    "Excalidraw/Pasted Image 20260430103644_674.png",
-    "Excalidraw/Pasted Image 20260430092611_737.png",
-    "Excalidraw/Pasted Image 20260430091613_531.png",
-    "Maths/06-05-2026-01.excalidraw.md",
-    "Further Maths/14-11-2025.excalidraw 1.md",
-    "Further Maths/14-11-2025-01.excalidraw.md",
-    "Further Maths/14-11-2025-02.excalidraw.md",
-    "German/Mock Oral Cards.md",
-    "German/Truncated Oral Cards.md",
-    "Excalidraw/06-02-2026.excalidraw.md",
-    "Further Maths/27-04-2026.excalidraw.md",
-    "Maths/27-04-2026.excalidraw.md",
-    "Further Maths/20-03-2026.excalidraw.md",
-    "Maths/25-04-2026.excalidraw.md",
-    "Maths/15-03-2026.excalidraw.md",
-    "Maths/06-02-2026.excalidraw 1.md",
-    "Further Maths/26-03-2026.excalidraw.md",
-    "Further Maths/15-03-2026.excalidraw.md",
-    "Miscellaneous/White Gold/Snooker Stats App.md",
-    "Miscellaneous/White Gold",
-    "Maths/19-03-2026.excalidraw.md",
-    "Further Maths/18-03-2026.excalidraw.md"
+    "Excalidraw/Pasted Image 20260831091122_459.png",
+    "Maths/Summer Work P1.excalidraw.md",
+    "Excalidraw/Pasted Image 20260831101133_943.png",
+    "Excalidraw/Pasted Image 20260831092808_301.png",
+    "EPQ/01-10-2025.excalidraw.md",
+    "Further Maths/L6/Matrices 1 Assessment.pdf",
+    "Further Maths/L6/L6 MF Revision Paper 1.pdf",
+    "Further Maths/L6/further-maths-summer-workbook.pdf",
+    "Further Maths/L6/Further Maths Summer Work.excalidraw.md",
+    "Further Maths/L6/Due_11-12-2025.excalidraw.md",
+    "Further Maths/L6/Due_10-10-2025.excalidraw.md",
+    "Further Maths/L6/30-04-2026-01.excalidraw.md",
+    "Further Maths/L6/30-04-2026.excalidraw.md",
+    "Further Maths/L6/30-01-2026-02.excalidraw.md",
+    "Further Maths/L6/30-01-2026-01.excalidraw.md",
+    "Further Maths/L6/29-09-2025.excalidraw.md",
+    "Further Maths/L6/28-11-2025.excalidraw.md",
+    "Further Maths/L6/28-09-2025.excalidraw.md",
+    "Further Maths/L6/27-04-2026.excalidraw.md",
+    "Further Maths/L6/27-03-2026.excalidraw.md",
+    "Further Maths/L6/27-02-2026.excalidraw.md",
+    "Further Maths/L6/26-09-2025.excalidraw.md",
+    "Further Maths/L6/26-03-2026.excalidraw.md",
+    "Further Maths/L6/26-02-2026.excalidraw.md",
+    "Further Maths/L6/25-09-2025.excalidraw.md",
+    "Further Maths/L6/25-06-2026.excalidraw.md",
+    "Further Maths/L6/25-02-2026.excalidraw.md",
+    "Further Maths/L6/24-11-2025.excalidraw.md",
+    "Further Maths/L6/23-03-2026.excalidraw.md",
+    "Further Maths/L6/23-02-2026.excalidraw.md",
+    "Further Maths/L6/23-01-2026.excalidraw.md",
+    "Further Maths/L6",
+    "Further Maths/New folder",
+    "Maths/New folder",
+    "Maths/L6/ma-summer-worksheet-wecompress.com.pdf",
+    "Maths/L6/Logarithms Assessment.pdf",
+    "Maths/L6/Indices Assessment.pdf",
+    "Maths/L6/Due_01-10-2025.excalidraw.png",
+    "Maths/L6",
+    "Excalidraw/Pasted Image 20260708174806_623.png",
+    "Excalidraw/Pasted Image 20260711203000_124.png",
+    "Excalidraw/Pasted Image 20260711200358_985.png",
+    "Excalidraw/Pasted Image 20260708175520_148.png",
+    "Excalidraw/Pasted Image 20260630145446_553.png",
+    "Excalidraw/Pasted Image 20260630145039_771.png"
   ]
 }
