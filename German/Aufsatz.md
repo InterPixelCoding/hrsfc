@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Alex meint, die falsche DDR, die er für seine Mutter schafft, sei die DDR, die er sich in der Realität immer gewünscht hat. Wie stehen Sie zu dieser Meinung?
 
 ### Plan
@@ -13,3 +14,14 @@ Alex geht zu einem großen Ausmaß, um die Täuschung von DDR-Gesellschaft für 
 - Das Motiv der Raumfahrt geht weiter - die Kamera dreht sich nach oben, um die Rakete zu folgen, bevor sie nach unten dreht, um Alex nach zehn Jahre als typische Teenager zu zeigen. Diese Kameratechnik, wobei der Schnitt zwischen zwei Zeiten verschleiert wird, betont weiter der Mach vom Raumfahrt als Weise von Kommunikation und vom Zeitfahrt.
 - Alex erwähnt seine Mutter, während sie in Koma liegt, als "Satellit", die "kreist um unserer kleiner Planet und in unserer noch kleinerer Republik". Obwohl dieses Zitat nicht gerade in Bezug von Raumfahrt verweist, dreht es sich um das Motiv vom Weltraum. Dieses Zitat zeigt deutlich, inwieweit sich Alex' Wahrnehmung von der Wahrheit verändern hat, und wie er seine neue, umgekehrte Realität navigieren müssen. Damit wird die Motiv von Raumfahrt erfolgreich dargestellt, da es spiegelt technologische Verwandlung wider, die während dieser Zeit erfahrt wurde.
 - It shows how Alex's perception of reality has changed and how he must navigate his new upside-down world, where his mother is now his responsibility. Therefore, the motif is successfully portrayed through Alex's commentary, as it reflects the wider technological transformation of space travel and outer space technologies and thus its affect on the population.
+=======
+# Inwiefern helfen die Off-Kommentare von Alex dem Zuschauer zu verstehen, wie es damals in der DDR war?
+
+## Einfuehrung 
+(geschrieben zu Ende)
+
+## Absatz 1
+Dieser satirische Off-Kommentar trägt zum Humor bei und versucht gleichzeitig, die ständige Suche nach der Wahrheit zu erklären, die in der DDR in einer Zeit stattfand, die von Propaganda und gefälschten Erzählungen geprägt war.
+
+
+>>>>>>> Stashed changes
