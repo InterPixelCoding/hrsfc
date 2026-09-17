@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a3c3c893223249b6",
+        "id": "e13628120ff2ebbf",
         "type": "tabs",
         "children": [
           {
-            "id": "42ee37c6d4283f7a",
+            "id": "2dab054ed1484d39",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Further Maths/02-09-2026.excalidraw.md"
+                "file": "Further Maths/16-09-2026-02.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "02-09-2026.excalidraw"
+              "title": "16-09-2026-02.excalidraw"
             }
           }
         ]
@@ -39,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -169,12 +171,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "42ee37c6d4283f7a",
+  "active": "2dab054ed1484d39",
   "lastOpenFiles": [
-    "Further Maths/Summer Work.excalidraw.md",
-    "Further Maths/02-09-2026.excalidraw.md",
-    "Further Maths/L6/01-06-2026.excalidraw.md",
+    "Pasted Image 20260916105459_558.png",
+    "Further Maths/16-09-2026-02.excalidraw.md",
+    "Further Maths/16-09-2026.excalidraw.md",
+    "Excalidraw/Pasted Image 20260909091258_577.png",
+    "Further Maths/15-09-2026.excalidraw.md",
+    "Further Maths/11-09-2026.excalidraw.md",
+    "Further Maths/09-09-2026.excalidraw.md",
+    "Excalidraw/Pasted Image 20260909094409_492.png",
+    "Further Maths/08-09-2026.excalidraw.md",
+    "Excalidraw/07-09-2026.excalidraw.md",
+    "Miscellaneous/Dad's Website.md",
     "Maths/01-09-2026.excalidraw.md",
+    "Further Maths/02-09-2026.excalidraw.md",
+    "Maths/04-09-2026-02.excalidraw.md",
+    "Further Maths/Summer Work.excalidraw.md",
+    "Further Maths/L6/01-06-2026.excalidraw.md",
     "Maths/Summer Work P2.excalidraw.md",
     "Maths/Summer Work.excalidraw.md",
     "German/01-09-2026.md",
