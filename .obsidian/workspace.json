@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e13628120ff2ebbf",
+        "id": "f8e19cafa59ca635",
         "type": "tabs",
         "children": [
           {
-            "id": "2dab054ed1484d39",
+            "id": "51ee6f61ccd891e5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Further Maths/16-09-2026-02.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16-09-2026-02.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -69,7 +67,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -78,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5464bdce97750ec2",
@@ -171,28 +171,43 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2dab054ed1484d39",
+  "active": "51ee6f61ccd891e5",
   "lastOpenFiles": [
-    "Pasted Image 20260916105459_558.png",
-    "Further Maths/16-09-2026-02.excalidraw.md",
-    "Further Maths/16-09-2026.excalidraw.md",
-    "Excalidraw/Pasted Image 20260909091258_577.png",
-    "Further Maths/15-09-2026.excalidraw.md",
-    "Further Maths/11-09-2026.excalidraw.md",
-    "Further Maths/09-09-2026.excalidraw.md",
-    "Excalidraw/Pasted Image 20260909094409_492.png",
-    "Further Maths/08-09-2026.excalidraw.md",
-    "Excalidraw/07-09-2026.excalidraw.md",
-    "Miscellaneous/Dad's Website.md",
+    "Further Maths/06-11-2026.excalidraw.md",
+    "Further Maths/04-11-2026.excalidraw.md",
+    "Pasted Image 20261104092726_036.png",
+    "Pasted Image 20261104091725_604.png",
+    "Pasted Image 20261103143715_418.png",
+    "Pasted Image 20261103141457_841.png",
+    "Further Maths/03-11-2026.excalidraw.md",
+    "Further Maths/16-10-2026.excalidraw.md",
+    "Maths/15-10-2026.excalidraw.md",
+    "Further Maths/14-10-2026-01.excalidraw.md",
+    "Further Maths/14-10-2026.excalidraw.md",
+    "Further Maths/13-10-2026.excalidraw.md",
+    "Further Maths/09-10-2026.excalidraw.md",
+    "Further Maths/07-10-2026.excalidraw.md",
+    "Further Maths/06-10-2026.excalidraw.md",
+    "Untitled.md",
+    "Further Maths/23-09-2026-01.excalidraw.md",
+    "Maths/18-09-2026.excalidraw.md",
     "Maths/01-09-2026.excalidraw.md",
-    "Further Maths/02-09-2026.excalidraw.md",
-    "Maths/04-09-2026-02.excalidraw.md",
-    "Further Maths/Summer Work.excalidraw.md",
-    "Further Maths/L6/01-06-2026.excalidraw.md",
-    "Maths/Summer Work P2.excalidraw.md",
-    "Maths/Summer Work.excalidraw.md",
-    "German/01-09-2026.md",
-    "Maths/L6/12-04-2026.excalidraw.md",
-    "Maths/L6/01-06-2026.excalidraw.md"
+    "Miscellaneous/white_gold.excalidraw.md",
+    "Miscellaneous/White Gold/Snooker Stats App.md",
+    "Miscellaneous/White Gold/Pasted Image 20260305180440_373.png",
+    "Miscellaneous/White Gold/Pasted Image 20260305180343_049.png",
+    "Miscellaneous/White Gold/Pasted Image 20260305180117_639.png",
+    "Miscellaneous/White Gold/Pasted Image 20260305180309_802.png",
+    "Miscellaneous/White Gold/Pasted Image 20260305175702_313.png",
+    "Miscellaneous/White Gold/Pasted Image 20260305175511_149.png",
+    "Further Maths/30-09-2026.excalidraw.md",
+    "Further Maths/23-09-2026.excalidraw.md",
+    "Maths/06-02-2026.excalidraw.md",
+    "Further Maths/22-09-2026.excalidraw.md",
+    "Maths/18-09-2026-01.excalidraw.md",
+    "Maths/07-09-2026.excalidraw.md",
+    "Maths/17-09-2026.excalidraw.md",
+    "Further Maths/16-09-2026-02.excalidraw.md",
+    "Further Maths/16-09-2026.excalidraw.md"
   ]
 }
